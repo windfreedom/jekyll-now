@@ -32,26 +32,40 @@ That is a daunting task, and one that encompasses a larger number of factors, bo
 3. A firm also has to get the product in the hands of the customer who values it using **distribution channels**, which could take the form of selling the product to a retailer for a markdown, or could be selling directly to the customer via a platform like Amazon Marketplace. 
 4. The firm has to have a certain set of internal resources to produce and sell the product. 
 5. Other external agents in the environment. A firm also has to negotiate with **suppliers**, who provide the unfinished components necessary to operate the business and construct the product, as well as  **complementors**, who provide related products/services that increase the value generation of your product and provide an opportunity for cooperation. They also must bear the brunt of **substitutes**, products that attempt to fill the _same need or want_ that the business' product does. 
-6. Lastly, in most situations, a business will not be the only entity that decides to market a product or service. Rather, they must deal with **competitors**, who each produce similar products. 
+6. Lastly, in most situations, a business will not be the only entity that decides to market a product or service. Rather, they must deal with **competitors**, who each produce similar products. Competitors, both potential ones (**new entrants**) as well as existing ones, must be treated with a high level of respect because the ability of a firm to generate competitive advantage is highly dependent on the nature of competition. 
 
 The key is to view all of these elements as generic classes that must be filled in with specific objects by the operators of the company. 
 
-Two important terms: **strategy** and **competitive advantage**, fit pretty well into this model of business. 
+Now we've left out a key important fact. While all the 6 pieces above define a business in its entirety, it tells you nothing about whether the particular business is a **good** one. That's where strategy and durable competitive advantage comes in. These terms fit pretty well into this model of business. 
 
-Strategy can be defined as a set of choices and actions that a company takes to achieve durable competitive advantage. Durable competitive advantage can be defined in two parts:
--Magnitude of returns in excess of the cost of capital that a company does, or will, generate.
--Persistence - the length of time a company can earn these excess returns. 
+**Strategy** can be defined as a set of choices and actions that a company takes to achieve durable competitive advantage. In my model, strategy refers to the choices of specific elements to place into the generic 'slots' defined by the business model. That is, strategy involves choosing a customer, choosing a revenue model, choosing a product, choosing suppliers, etc., in such a fashion that maximizes the potential to achieve durable competitive advantage. 
 
-In my model, strategy refers to the choices of specific elements to place into the generic 'slots' defined by the business model. That is, strategy involves choosing a customer, choosing a product, choosing suppliers, etc., in such a fashion that maximizes the potential to achieve durable competitive advantage. 
 
-_7 Powers_ defines seven situations in which companies can earn durable competitive advantage, of which 6 are commonly known:
+**Durable competitive advantage** tells one whether a business is good or not. It can be defined in two parts:
 
-1. Supply Side Economies of Scale.
+-**Magnitude of returns** in excess of the cost of capital that a company does, or will, generate. Companies having durable competitive advantage should see materially higher cash flows than competitors by being able to charge more (also known as **pricing power**), operate with reduced fixed or variable costs (improved margin structure, lessened investment needs, etc.), and/or capture more long-term market share. 
+-**Persistence** - the length of time a company can earn these excess returns. A company with durable competitive advnatage should prevent existing and potential competitors from entering the market, offering a similar product, and thus reducing the magnitude of excess of returns over time. 
+
+Basically, every dominant business in the history of capitalism benefited from durable competitive advantage. That's what made Ford and Standard Oil so dominant, and currently makes Amazon, Facebook, and Google so dominant. 
+
+_7 Powers_ defines seven situations that allow companies can earn durable competitive advantage, of which 6 are commonly known:
+
+1. Supply Side Economies of Scale (Scale in Manufacturing, Distribution, Scope Economies, Learning Economies, etc.)
 2. Networking Effects (Direct and Indirect)
 3. Switching Costs
 4. Branding 
 5. Cornered Resources (e.g. Intellectual Property Protection)
 6. Process Advantages
 
-.
+In each of these situations, a firm is able to earn excess returns in such a way that is immune to competition, both directly as compared to direct competitors, as well as indirectly against new entrants, substitutes, suppliers, and complementors. The firms in these positions earn excess returns for a consistent amount of time. Investors look at the companies' annual reports and throw praise on them. Stock prices rise over time. Customers come back. The good times roll. 
+
+But here's the problem. As evidence by the fact that the most valuable companies in the world have changed so drastically from 1950 to now (Companies like General Motors, Exxon Mobil, Ford Motor, General Electric, U.S. Steel - the top five in 1950 - have been replaced by Apple, Alphabet, Microsoft, Faceboo, ad Amazon), even having a durable competitive advantage does not guarantee permanent immunity from business irrelevancy. Once dominant companies like IBM have gone through toughs. New dominant technology titans have emerged. Even the situations described above aren't permanent. So what accounts for this change? This is where a study of dynamics becomes important - only dynamics attempts to understand and explain how new industries are created, when new companies are at an advantage and when they are not. 
+
+
+## From Statics to Dynamics
+
 What I’ve just done is paint a static picture of a particular business. The critical thing to note about the picture is that every single element of the picture, whether external or internal to the firm, rests on a set of assumptions. The firm assumes that the product provides a certain amount of value by solving a certain problem — in reality the product may or may not. The firm assumes that the customers’ needs and wants (the ‘job to be done’) match what the product offers — this may or may not be true in reality.
+
+### The Existing Literature: Disruption
+
+Despite the relative dearth of academic attention given to the topic of competitive dynamics, there's one, glaring, huge exception to that statemet - disruption theory. The 
