@@ -59,7 +59,7 @@ _7 Powers_ defines seven situations that allow companies can earn durable compet
 
 In each of these situations, a firm is able to earn excess returns in such a way that is immune to competition, both directly as compared to direct competitors, as well as indirectly against new entrants, substitutes, suppliers, and complementors. The firms in these positions earn excess returns for a consistent amount of time. Investors look at the companies' annual reports and throw praise on them. Stock prices rise over time. Customers come back. The good times roll. 
 
-But here's the problem. As evidence by the fact that the most valuable companies in the world have changed so drastically from 1950 to now (Companies like General Motors, Exxon Mobil, Ford Motor, General Electric, U.S. Steel - the top five in 1950 - have been replaced by Apple, Alphabet, Microsoft, Faceboo, ad Amazon), even having a durable competitive advantage does not guarantee permanent immunity from business irrelevancy. Once dominant companies like IBM have gone through toughs. New dominant technology titans have emerged. Even the situations described above aren't permanent. So what accounts for this change? This is where a study of dynamics becomes important - only dynamics attempts to understand and explain how new industries are created, when new companies are at an advantage and when they are not. 
+But here's the problem. As evidence by the fact that the most valuable companies in the world have changed so drastically from 1950 to now (Companies like General Motors, Exxon Mobil, Ford Motor, General Electric, U.S. Steel - the top five in 1950 - have been replaced by Apple, Alphabet, Microsoft, Faceboo, ad Amazon), even having a durable competitive advantage does not guarantee permanent immunity from business irrelevancy. Once dominant companies like IBM have gone through toughs. New dominant technology titans have emerged. Even the situations described above aren't permanent. So what accounts for this change? This is where a study of dynamics becomes important - only dynamics attempts to understand and explain how new industries are created, when new companies are at an advantage and when they are not. Knowing where to skate to - the 6 positions described above - is important, but knowing how to get there, and how those positions are lost - is another thing entirely. 
 
 
 ## From Statics to Dynamics
@@ -68,4 +68,4 @@ What I’ve just done is paint a static picture of a particular business. The cr
 
 ### The Existing Literature: Disruption
 
-Despite the relative dearth of academic attention given to the topic of competitive dynamics, there's one, glaring, huge exception to that statemet - disruption theory. The 
+Despite the relative dearth of academic attention given to the topic of competitive dynamics, there's one, glaring, huge exception to that statemet - disruption theory. The
