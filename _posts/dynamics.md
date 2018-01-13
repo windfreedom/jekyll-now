@@ -16,7 +16,11 @@ So I thought I would attempt to derive a theory of competitive dynamics on my ow
 
 Before one can think about change, one must have a theory of business to use as a starting  point. I begin with a description of an incumbent firms’ **business model**. The term business model, like many qualitative terms used in business, carries with it multiple interpretations and definitions. Mine is pretty much stolen from this 2002 Harvard Business Review article, [“Why Business Models Matter”](https://hbr.org/2002/05/why-business-models-matter). To quote Joan Magretta, business models are:
 
- > “stories — stories that explain how enterprises work. A good business model answers Peter Drucker’s age-old questions, ‘Who is the customer? And what does the customer value?’ It also answers the fundamental questions every manager must ask: How do we make money in this business? What is the underlying economic logic that explains how we can deliver value to customers at an appropriate cost?”
+> “stories — stories that explain how enterprises work. A good business model answers Peter Drucker’s age-old questions, ‘Who is the customer? And what does the customer value?’ It also answers the fundamental questions every manager must ask: How do we make money in this business? What is the underlying economic logic that explains how we can deliver value to customers at an appropriate cost?” 
+> 
+
+
+
 
 To me, this means the following. I give you one piece of paper, and using it, explain, in detail, the entire business to me (where business is defined around one single product/service or small numbers of related ones, not an entire firm). 
 That is a daunting task, and one that encompasses a larger number of factors, both internal to and external of the firm. Here’s my picture of what should go on that one page - the totality of elements that define a business:
