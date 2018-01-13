@@ -38,7 +38,9 @@ The key is to view all of these elements as generic classes that must be filled 
 
 Two important terms: **strategy** and **competitive advantage**, fit pretty well into this model of business. 
 
-Strategy can be defined as a set of choices and actions that a company takes to achieve durable competitive advantage. Durable competitive advantage can be defined in two parts: the magnitude of returns in excess of the cost of capital that a company does, or will, generate, and the length of time a company can earn these excess returns. 
+Strategy can be defined as a set of choices and actions that a company takes to achieve durable competitive advantage. Durable competitive advantage can be defined in two parts:
+-Magnitude of returns in excess of the cost of capital that a company does, or will, generate.
+-Persistence - the length of time a company can earn these excess returns. 
 
 In my model, strategy refers to the choices of specific elements to place into the generic 'slots' defined by the business model. That is, strategy involves choosing a customer, choosing a product, choosing suppliers, etc., in such a fashion that maximizes the potential to achieve durable competitive advantage. 
 
