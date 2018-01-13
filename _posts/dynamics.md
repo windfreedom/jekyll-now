@@ -3,6 +3,11 @@ layout: post
 title: Dynamics of Competitive Advantage From First Principles
 published: true
 ---
+---
+layout: post
+title: Dynamics of Competitive Advantage From First Principles
+---
+
 
 ## Introduction 
 
