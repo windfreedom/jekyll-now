@@ -64,7 +64,6 @@ But here's the problem. As evidence by the fact that the most valuable companies
 
 ## From Statics to Dynamics
 
-What I’ve just done is paint a static picture of a particular business. The critical thing to note about the picture is that every single element of the picture, whether external or internal to the firm, rests on a set of assumptions. The firm assumes that the product provides a certain amount of value by solving a certain problem — in reality the product may or may not. The firm assumes that the customers’ needs and wants (the ‘job to be done’) match what the product offers — this may or may not be true in reality.
 
 ### The Existing Literature: Disruption
 
