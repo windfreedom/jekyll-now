@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dynamics of Competitive Advantage From First Principles
-published: true
+published: false
 ---
 
 
