@@ -1,0 +1,7 @@
+---
+published: false
+---
+## Catching United
+
+
+If I was forced to use one word to define the the healthcare industry at end of 2017 it would be **merger**.
