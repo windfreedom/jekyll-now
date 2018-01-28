@@ -11,11 +11,11 @@ While the CVS-Aetna merger and the continued expansion of United's python-esque 
 
 Textbook treatments of the U.S. healthcare value chain generally divide into 5 functions, each occupied by a set of organizations:
 
-- End-payers, in the form of governments (Medicare, Medicaid, etc.), individuals (made more important by the ACA exchanges), employers (both in the form of self-insured employers as well as those in the large group market). These institutions ultimately foot the bill for healthcare services in one form or another. 
-- Fiscal Intermediaries f in the form of insurers, who offer a number of different types of products (HMOs, PPOs, wide-network plans), as well as Pharmacey Benefit Managers (PBMs). These organizations generally help blunt the high-cost of medical service for end-payers.
-- Providers in the form of hospitals (inpatient), speciality surgical centers, outpatient care (physician clinics), pharmacy chains and newer types of delivery assets like urgent care centers, stand-alone ERs, etc. Each organization here takes on a different use case for the provision of healthare services and products to consumers. 
-- Purchasers, like drug, medical device, and durable medical equipment (DME) wholesalers and group purchasing organizations (GPOs) that serve to bridge the gap between the products used in medical service and the service providers themselves.
-- Producers like biopharmaceutical companies and medical device makers. They tend to actually make the products used in varying types of medical care.
+- **End-payers**, in the form of governments (Medicare, Medicaid, etc.), individuals (made more important by the ACA exchanges), employers (both in the form of self-insured employers as well as those in the large group market). These institutions ultimately foot the bill for healthcare services in one form or another. 
+- **Fiscal Intermediaries** in the form of insurers, who offer a number of different types of products (HMOs, PPOs, wide-network plans), as well as Pharmacey Benefit Managers (PBMs). These organizations generally help blunt the high-cost of medical service for end-payers.
+- **Providers** in the form of hospitals (inpatient), speciality surgical centers, outpatient care (physician clinics), pharmacy chains and newer types of delivery assets like urgent care centers, stand-alone ERs, etc. Each organization here takes on a different use case for the provision of healthare services and products to consumers. 
+- **Purchasers**, like drug, medical device, and durable medical equipment (DME) wholesalers and group purchasing organizations (GPOs) that serve to bridge the gap between the products used in medical service and the service providers themselves.
+- **Producers**, such as biopharmaceutical companies and medical device makers. They tend to actually make the products used in varying types of medical care.
 
 But these lines have been blurred in the past and after a brief period of stablization in the mid-2000s, have started to blur again. 
 
