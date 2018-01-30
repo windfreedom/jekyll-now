@@ -70,7 +70,19 @@ It just so happens that the acquisitions of UGH and CVS/Aetna function as direct
 
 ### United Takes Integrated Care Delivery to the National Stage
 
-The scope of UHG's clinical assets are somewhat startling. 
+The scope of UHG's clinical assets are somewhat startling. According to analysis by ReconStrategy's [Tory Wolff](http://reconstrategy.com/2017/12/uniteds-ambulatory-delivery-system-optumcare-can-reach-70-of-the-us-population/) as well as the 2016 United Health 10-K, United Healh maintains a care delivery arm that can reach 70% of the U.S. population with a variety of outpatient assets, including:
+- Physician practices (IPAs) directly owned by Optum as well as those affiliated with Optum.
+- Urgent Care Centers to address ER-level care at lower cost.
+- Ambulatory Surgical Centers to support lower acuity, outpatient surgical procedures. 
+
+The group employs or is affiliated with 20,000 physicians, and has a presence of at least one of these types of clinical assets in 70% of markets defined by "hospital referral regions". See the ReconStrategy piece for more detail.
+
+So clearly, United owns a **ton** of outpatient delivery assets. But why? What's the point? After all UHG is first and foremost a payer that operates in pretty much every known insurance market. $148,581 million out of the $184,840 million (80.3%) of UHG revenue derived from its insurance operations, not its Optum group. Due to the inherently low margin nature of insurance, the breakout of the earnings side is slightly better: $7,307 million arriving from insurance operations and $5,623 million. But even of this $5,623 million, OptumHealth (the group that owns the delivery assets), was responsible fore $1,428 million in net income.
+
+There are a couple of reasons that I can surmise:
+
+1.
+
 
 
 
