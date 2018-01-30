@@ -92,11 +92,13 @@ And I don't at all think that Optum is done. For one, they just acquired DaVita 
 
 ### CVS and Aetna Bet on a Lighter Touch Model of Healthcare
 
-At first glance, it appears that the CVS-Aetna merger was built to accomplish similar goals through acquisition of CVS's network of light-touch MinuteClinics. And at first breath it seems like the acquisition is extremely advantageous: in one fell swoop Aetna bought access to care delivery assets with an even larger geographic scope than UHG's:[82% of Americans live within 10 miles of a CVS store](https://qz.com/1146577/cvs-and-aetna-aet-82-of-americans-are-within-10-miles-of-the-pharmacy/), and 71% live within 5 miles. Compared to UHG's ~1700 locations, CVS Health owns 97000 retail locations and 1100 clinics. 
+At first glance, it appears that the CVS-Aetna merger was built to accomplish similar goals through acquisition of CVS's network of light-touch MinuteClinics. And at first breath it seems like the acquisition is extremely advantageous: in one fell swoop Aetna bought access to care delivery assets with an even larger geographic scope than UHG's:[82% of Americans live within 10 miles of a CVS store](https://qz.com/1146577/cvs-and-aetna-aet-82-of-americans-are-within-10-miles-of-the-pharmacy/), and 71% live within 5 miles. Compared to UHG's ~1700 locations, CVS Health owns 9700 retail locations and 1100 clinics. 
 
 The caveat, of course, arrives in the form of care intensity. As UHG's acquistion of DaVita shows, it was much more interested in gaining density in its existing markets  with a set of three core outpatient care assets. In contrast to this, the only care delivery assets exclusively owned by CVS/Aetna are their set of retail MinuteClinics (which are also found in other retail locations apart from CVS, e.g. Target) and their pharmacy network (OptumRx is a PBM, and does not own nearly the number of pharmacy delivery assets). Thus, there are substantial gaps in the care delivery spectrum accessible to CVS-Aetna that likely prevent its care network from serving the same "soft leverage" and "price ceiling" roles as United's. So what role then does it play? Here are some preliminary thoughts:
 
 
+- For a long time it was assumed that the PCP was the entry point to the healthcare system. And while for some that may be true, there are several headwinds that have undermined that statement. Firstly, while ACOs and other value based payment plans were supposed to divert resources away from specialists and towards primary care physicians, the uptake hasn't been fast enough and thus a shortage of PCPs is expected; even if every person in the U.S. wanted to have access to a quality PCP, they probably couldn't get it. Additionally, there is also [evidence that](https://medium.com/@jayparkinson/toward-a-new-definition-of-primary-care-primary-care-3-0-a842e755c840) lots of individuals just don't see their PCP that often, let alone use them as the first stop for medical advice. 
+
+- Aetna and CVS are making a much bolder bet on the future of healthcare. For one, they're building a care delivery network that has no physicians in it! 
+
 - 
-
-
