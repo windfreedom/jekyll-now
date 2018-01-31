@@ -8,7 +8,7 @@ But how should we begin speculating in a way that gives us even a chance at maki
 1. Analyze the strategies by Amazon has approached new industries and product-markets in the past. 
 2. Understand how employers have attempted to curb their employees healthcare costs in the past.
 
-With those two pieces of background in mind, we can attempt to at least understand what Amazon is likely to try and understand whether it's likely to work or not. 
+With those two pieces of background in mind, we can attempt to at least understand what Amazon and co. is likely to try and understand whether it's likely to work or not. 
 
 ## Amazon, Primitives, and Adaptation
 
