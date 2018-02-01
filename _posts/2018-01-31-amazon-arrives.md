@@ -27,20 +27,22 @@ The effects of employer-sponsored health insurance of course, are very perverse.
 
 So, given the outsized costs of health insurance on employer cash balances, they should have been doing everything in their power to lower healthcare costs for the last 40 years, a time during which healthcare costs have ballooned. The good news (for our sanity) is that they did try and continue to lower expenditures! Unfortunately for us, they've also mostly failed and continue to fail. Why is that?
 
-At a high level, while I'm I'm sure employers would like to spend nothing on healthcare and extricate themselves from the process of purchasing health insurance entirely, they've been constrained by the fact that health insurance is a critical factor in maintaining a competitive position in hiring markets. So, while employees don’t like high premiums, what they hate even more (partly due to the blunted impact of cost in employer-markets) is a less comprehensive benefits package. More generally, employees have an expectation of what a comprehensive health plan looks like, and don't like deviations from it, even if the risks of deviation are in an effort to make their care cheaper. Therefore, despite the occasional story about companies drastically reducing health expenses through innovative benefit design, on average employers have bowed to the wishes of their employee bases and kept their benefits stadardized. 
+At a high level, while I'm I'm sure employers would like to spend nothing on healthcare and extricate themselves from the process of purchasing health insurance entirely, they've been constrained by the fact that health insurance is a critical factor in maintaining a competitive position in hiring markets. So, while employees don’t like high premiums, what they hate even more (partly due to the blunted impact of cost in employer-markets) is a less comprehensive benefits package. More generally, employees have an expectation of what a comprehensive health plan looks like, and generally don't like deviations from it, even if that deviation is in an effort to make their care cheaper or better. Therefore, despite the occasional story about companies drastically reducing health expenses through innovative benefit design, on average employers have bowed to the wishes of their employee bases and kept their benefits stadardized. 
 
-But, as I mentioned above, the broad failure of employer efforts is not for a lack of trying  - and there have been a sparing number of large successes combined with a host of benefit design methods that have small, but proven effects. I'll try to briefly give an overview of the methods of benefit design that have been tried thus far:
+But, as I mentioned above, the broad failure of employer efforts is not for a lack of trying  - and there have been a sparing number of large successes combined with a host of benefit design methods that have small, but proven effects. I'll try to briefly give an overview of the methods of benefit design that have been tried (ad some that haven't) thus far:
 
-- Direct Contracting and self-insurance.
+- Direct Contracting and Self-Insurance.
 - Pooled employer consortiums to increase buyer power.
 - Reference Pricing
-- Use of Centers of Excellence for high-complexity patients. 
-- Intelligent use of cost sharing. 
+- Use of Centers of Excellence for high-complexity cases. 
+- Value Based Insurance Design (also known as 'intelligent use of cost sharing') 
+- Narrowed and Tiered Networks
+
 
 
 ## Putting it All Together. 
 
-So, give what we know about Amazon's tendencies as well as prior attempts at using benefit design to bend the cost curve, what might we expect Amazon to do?
+So, given what we know about Amazon's tendencies as well as prior attempts at using benefit design to bend the cost curve, what might we expect Amazon to do?
 
 ### The Most Conservative Option 
 
