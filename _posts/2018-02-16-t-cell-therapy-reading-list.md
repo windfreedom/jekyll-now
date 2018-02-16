@@ -3,10 +3,27 @@ published: true
 ---
 
 
-## Designing T-Cells
+## Reviews
+
+- CAR T Cell Therapy for Solid Tumors (Annual Review of Medicine). 
+
+- Chimeric antigen receptor T cell therapy: 25years in the making. (Blood Rev. 2016)
+
+- 
 
 
-### Wendell Lim's Lab
+## Foundational Papers
+
+
+
+## Clinical Data and Results 
+
+
+
+## Next-Generation Approaches
+
+
+### Wendell Lim's Lab: Focusing on Synthetic Biology to Control T-Cells
 
 **URL:** http://limlab.ucsf.edu/research.html
 
@@ -32,7 +49,26 @@ published: true
 
 - Synthetic biology approaches to engineer T cells. (Current Opinion in Immunology. 2015)
 
+- Complex transcriptional modulation with orthogonal and inducible dCas9 regulators. (Nat Methods. 2016)
+
+- Engineering dynamical control of cell fate switching using synthetic phospho-regulons. (Proceedings of the National Academy of Sciences. 2016)
 
 
+### Kill-switches and Other Control Elements!
+
+### Cell Therapies in Other Hematological Indications
+
+- Chimeric antigen receptor T cell therapy in AML: How close are we? (Best Pract Res Clin Haematol. 2016). 
+
+- Treating Relapsed / Refractory (RR) AML with Biodegradable Anti-CD123 CAR Modified T Cells (Blood 2017).
+
+- Pilot Study of Non-Viral, RNA-Redirected Autologous Anti-CD19 Chimeric Antigen Receptor Modified T-Cells in Patients with Refractory/Relapsed Hodgkin Lymphoma (HL) (Blood 2017). 
+
+- CD19 CAR-T cells combined with ibrutinib to induce complete remission in CLL. (JCO 2017).
+
+
+
+
+### Cell Therapies in Solid Tumors
 
 
