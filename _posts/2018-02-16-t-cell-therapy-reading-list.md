@@ -26,7 +26,11 @@ published: true
 
 - Precision tumor recognition by T cells with combinatorial antigen-sensing circuits. (Cell. 2016).
 
-- 
+- Engineering customized cell sensing and response behaviors using synthetic notch receptors. (Cell. 2016). 
+
+- Remote control of therapeutic T cells through a small molecule-gated chimeric receptor. (Science. 2015).
+
+- Synthetic biology approaches to engineer T cells. (Current Opinion in Immunology. 2015)
 
 
 
