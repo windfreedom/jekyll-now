@@ -72,3 +72,9 @@ published: true
 ### Cell Therapies in Solid Tumors
 
 
+### Other Cool Approaches
+
+- Abstract 4575: Chimeric antigen receptor macrophages (CARMA) for adoptive cellular immunotherapy of solid tumors (AACR 2016).
+
+
+
