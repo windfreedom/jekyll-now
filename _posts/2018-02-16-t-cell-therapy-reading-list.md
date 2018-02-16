@@ -9,14 +9,31 @@ published: true
 
 - Chimeric antigen receptor T cell therapy: 25years in the making. (Blood Rev. 2016)
 
-- 
+- Therapeutic T cell engineering. (Nature 2017). 
+
+- CD19 CAR T Cells. (Cell 2017).
+
+- The journey from discoveries in fundamental immunology to cancer immunotherapy. (Cell 2015). 
 
 
-## Foundational Papers
+
+## Foundational Papers and Basic Biology 
+
+### Foundational TCR and CAR Papers.
+
+### Novel Biology
+
 
 
 
 ## Clinical Data and Results 
+
+
+## Pharmacokinetics, Pharmacodynamics, and Other SAR
+
+- The pharmacology of second-generation chimeric antigen receptors. (Nat Rev Drug Discov. 2015)
+
+- Structural Design of Engineered Costimulation Determines Tumor Rejection Kinetics and Persistence of CAR T Cells. (Cancer Cell 2015).
 
 
 
@@ -54,7 +71,17 @@ published: true
 - Engineering dynamical control of cell fate switching using synthetic phospho-regulons. (Proceedings of the National Academy of Sciences. 2016)
 
 
-### Kill-switches and Other Control Elements!
+
+### Kill-switches, Combinatorial Antigen Sensing, and Other T-Cell Circuitry
+
+- Building a Safer and Faster CAR: Seatbelts, Airbags, and CRISPR. (Biol Blood Marrow Transplant. 2018).
+
+- Combinatorial Antigen Targeting: Ideal T-Cell Sensing and Anti-Tumor Response. (Trends Mol Med. 2016).
+
+- The quest for spatio-temporal control of CAR T cells. (Cell Res. 2015). 
+
+
+
 
 ### Cell Therapies in Other Hematological Indications
 
@@ -66,15 +93,31 @@ published: true
 
 - CD19 CAR-T cells combined with ibrutinib to induce complete remission in CLL. (JCO 2017).
 
+- Integrating Proteomics and Transcriptomics for Systematic Combinatorial Chimeric Antigen Receptor Therapy of AML. (Cancer Cell. 2017). 
 
 
 
 ### Cell Therapies in Solid Tumors
+
+- Mesothelin-Targeted CARs: Driving T Cells to Solid Tumors. (Cancer Discov. 2016)
+
+- T-Cell Transfer Therapy Targeting Mutant KRAS in Cancer (NEJM 2015).
+
+-
+
+
+### Outside of Cancer?
+
+- Reengineering chimeric antigen receptor T cells for targeted therapy of autoimmune disease (Science 2016).
+
+- FVIII-specific human chimeric antigen receptor T-regulatory cells suppress T- and B-cell responses to FVIII (Blood 2016).
+
 
 
 ### Other Cool Approaches
 
 - Abstract 4575: Chimeric antigen receptor macrophages (CARMA) for adoptive cellular immunotherapy of solid tumors (AACR 2016).
 
+- Targeting a CAR to the TRAC locus with CRISPR/Cas9 enhances tumour rejection. (Nature 2017).
 
-
+- 
