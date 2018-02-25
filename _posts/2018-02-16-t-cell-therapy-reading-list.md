@@ -108,7 +108,6 @@ published: true
 
 - T-Cell Transfer Therapy Targeting Mutant KRAS in Cancer (NEJM 2015).
 
--
 
 
 ### Outside of Cancer?
@@ -125,4 +124,3 @@ published: true
 
 - Targeting a CAR to the TRAC locus with CRISPR/Cas9 enhances tumour rejection. (Nature 2017).
 
--
