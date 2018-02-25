@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 
@@ -121,5 +121,3 @@ https://hmpi.org/2017/09/08/scenario-planning-tools-for-organizations-struggling
 
 13.5x revenue
 Plan costs range from $450 - 850 PMPM. Average ~$6700 PMPY revenue. This is a premium product!
-
-
