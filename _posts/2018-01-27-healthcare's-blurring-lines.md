@@ -91,12 +91,29 @@ And I don't at all think that Optum is done. For one, they just acquired DaVita 
 
 ### CVS and Aetna Bet on Becoming a Switch
 
-At first glance, it appears that the CVS-Aetna merger was built to accomplish similar goals through acquisition of CVS's network of light-touch MinuteClinics. And it seems like the acquisition is extremely advantageous: in one fell swoop Aetna bought access to care delivery assets with an even larger geographic scope than UHG's:[82% of Americans live within 10 miles of a CVS store](https://qz.com/1146577/cvs-and-aetna-aet-82-of-americans-are-within-10-miles-of-the-pharmacy/), and 71% live within 5 miles. Compared to UHG's ~1700 locations, CVS Health owns 9700 retail locations (they only own 1100 clinics, but the ease of installationinto their own retail locations makes it likely that this number could balloon significantly). 
+At first glance, it appears that the CVS-Aetna merger was built to accomplish similar goals through acquisition of CVS's network of light-touch MinuteClinics. And it seems like the acquisition is extremely advantageous in that sense: in one fell swoop Aetna bought access to care delivery assets with an even larger geographic scope than UHG's:[82% of Americans live within 10 miles of a CVS store](https://qz.com/1146577/cvs-and-aetna-aet-82-of-americans-are-within-10-miles-of-the-pharmacy/), and 71% live within 5 miles. Compared to UHG's ~1700 locations, CVS Health owns 9700 retail locations (they only own 1100 clinics, but the ease of installationinto their own retail locations makes it likely that this number could balloon significantly). 
 
 The caveat, of course, arrives in the form of _care intensity._ As UHG's acquistion of DaVita demonstrates, the company was much more interested in gaining density in its existing markets  with a set of three core outpatient care assets. In contrast to this, the only care delivery assets exclusively owned by CVS/Aetna are their set of retail MinuteClinics (which are also found in other retail locations apart from CVS, e.g. Target) and their pharmacy network (OptumRx is a PBM, and does not own nearly the number of pharmacy delivery assets). Thus, there are substantial gaps in the care delivery spectrum accessible to CVS-Aetna that likely prevent its care network from serving the same "soft leverage" and "price ceiling" roles as United's. So what role then does it play?
 
 
-In short, Aetna/CVS is making a radical bet that it can become a switch for routing individuals into high-value, low-cost care experiences. 
+In short, Aetna/CVS is making a radical bet that it can become a switch for routing individuals into high-value, low-cost care experiences that lower the overall cost of care for its members (saving Aetna money) while also improving the value of CVS's retail locations. That is, rather than acquiese to provider narrow networks, Aetna wants to direct consumers to different sites of care, a model that can be adapted to value-based care all the same, but gives substantially more leverage to the insurer. 
+
+Now, this is a story we've definitely been told before. To a certain extent, HMO plans as envisioned in the 1990s tried to do the same thing. In their case, they wanted the HMO-employed PCP to be the switch that tightly controlled the way patients utilized care, routing them to high-value providers. But, as noted above, the market rejected this overt level of control of consumer choice. Members loved their PCPs and wouldn't give them up. 
+
+And yet it seems that constraints of past decades are less relevant than ever in this new healthcare world. For example, two distinct examples of beefed-up primary care serving as a care switch using tightly controlled specialist networks already exist. CareMore already mentioned above - does something very similar in its Medicare Advantage plans. Iora Health does the same - operating as a MA plan that allows it to divert meaningful premium revenue to its primary care physicians and use explicitly exclusionary specialist networks to reduce the costs of specialist visits. 
+
+The devil however, is in the economic details of these arrangements. While CareMore and Iora serve as examples that primary-care heavy model can succeed in both improving patient experiences and lowering costs of care, there are also plety of failures to hold up alongside these canonical examples. The economics of these models is tough to make work. 
+
+Kevin O'Leary wrote about the difficulties of making the economics of Direct Primary Care work [here](https://medium.com/@olearykm/the-cost-equation-for-new-primary-care-models-in-existing-frameworks-part-i-a31109f4dcbb) and noted three main challenges that CVS/Aetna is going to have to deal with:
+1. Network Challenges. Primary Care can only steer patients into the networks that the patientis contracted into. If the care-switch is not localized into any network, this inherently limits and cost-savings that are available. This is less important for Aetna. As an insurer, it controls the construction of downstream network of specialists, imaging centers, and in-patient assets. That being said, the whole thesis of this blog - that provider systems are consolidating into 'take it or leave it' systems - resurfaces the problem of network construction. 
+
+
+
+Aetna will also have to deal with other challenges.
+1. 
+
+
+
 
 
 - For a long time it was assumed that the PCP was the entry point to the healthcare system. And while for some that may be true, there are several headwinds that have undermined that statement. Firstly, while ACOs and other value based payment plans were supposed to divert resources away from specialists and towards primary care physicians, the uptake hasn't been fast enough and thus a shortage of PCPs is expected; even if every person in the U.S. wanted to have access to a quality PCP, they probably couldn't get it. Additionally, there is also [evidence that](https://medium.com/@jayparkinson/toward-a-new-definition-of-primary-care-primary-care-3-0-a842e755c840) lots of individuals just don't see their PCP that often, let alone use them as the first stop for medical advice. 
