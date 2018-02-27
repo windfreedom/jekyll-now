@@ -2,7 +2,84 @@
 published: false
 ---
 
-At long last, after close to a year of entry rumors and key hiring in its new "1492" group, including that of [Martin Levine from Iora Health](https://www.beckershospitalreview.com/healthcare-information-technology/amazon-adds-top-iora-health-physician-to-healthcare-team.html), Amazon has officially [annouced](https://www.businesswire.com/news/home/20180130005676/en/Amazon-Berkshire-Hathaway-JPMorgan-Chase-partner-U.S) its intentions to do..._something_ in healthcare. Officially, they say they are teaming up with Berkshire Hathaway and JP Morgan "with the aim of improving employee satisfaction and reducing costs....through an independent company that is free from profit-making incentives and constraints". Problem is - as many skeptical health-technology commentators have noted - it isn't exactly divulging details about what it intends to do, and because we have nothing to critically analyze, it's quite easy to either hail or dismiss Amazon's triumvirate based solely on one's intellectual priors. But still, the annoucement is very interesting even with only scant details available, both because we all _want_ them to succeed (who does't want lower healthcare costs?), but also because Amazon has a verifiable history of approaching new industries and finding winning strategies in them. 
+
+
+
+At long last, after close to a year of entry rumors and key hiring in its new "1492" group, including that of [Martin Levine from Iora Health](https://www.beckershospitalreview.com/healthcare-information-technology/amazon-adds-top-iora-health-physician-to-healthcare-team.html), Amazon  officially [annouced](https://www.businesswire.com/news/home/20180130005676/en/Amazon-Berkshire-Hathaway-JPMorgan-Chase-partner-U.S) its intentions to do..._something_ in healthcare. Officially, they say they are teaming up with Berkshire Hathaway and JP Morgan "with the aim of improving employee satisfaction and reducing costs....through an independent company that is free from profit-making incentives and constraints". Whatever that means.
+
+Problem is - as many skeptical health-technology commentators have noted - it isn't exactly divulging details about what it intends to do. And because we have nothing to critically analyze, it's quite easy to either hail or dismiss Amazon's triumvirate based solely on one's intellectual priors. Those positively predisposed to Jeff Bezos, Arch-Capitalist and Destroyer of Industries can easily point to facts that support the view that the new partnership will be successful. But those familiar with the many failed attempts to transform healthcare - some undertaken by employer coalitions eerily similar to the one just announced - also can point to facts that indicate that Amazon is out of its depth and will fail. 
+
+Unfortunately for those hoping for a radical rethink of care delivery from a famously innovative company, JPM CEO Jamie Dimon let it slip that the plan at the moment seems to form a Group Purchasing Organization (GPO), an approach that has been tried and failed before. But this piece will not be dedicated to analyzing the conservative scenario. Rather I will focus on what the radical ideas Amazon might try to deploy. 
+
+That being said, before I get into the details of what Amazon is likely to do in healthcare, I think their entrance has surfaced an important topic that doesn't get fundamentally talked about. That is, **why is it so hard to change healthcare? **
+
+It's a broad question. And it's a topic that is often analyzed from a variety of different perspectives. There's the policy perspective for example - why is so hard to get effective healthcare reform passed and why does it tend to suck once passed? The economic perspective tries to explain how the healthcare system can be so unresponsive to the needs of consumers and evidence. 
+
+But I'm more interested in a subset of the general question: **why is so hard for new healthare entrants with innovative approaches to improve care delivery to gain market share?**
+
+
+I believe this is a good lens from which to think about healthcare in light of Amazon's announcement. We can and _should_ debate whether it is [the job of private corporations to fix U.S. Healthcare](http://nymag.com/daily/intelligencer/2018/01/amazon-shouldnt-be-in-charge-of-fixing-health-care.html), or whether the problems endemic to the U.S. healthcare system indeed _can_ be fixed by private enterprises. However, while the goverment does play an outsized role  in the delivery and financing of healthcare, the U.S. operates in a nominally market driven system. Thus, it falls to private enteprises, from small clinics to delivery systems to corporations like Amazon to try to implement the innovative ideas that could lower healthcare costs and make it more consumer friendly. The government, for better or worse, can't order new ideas into existence. 
+
+And from that perspective, the ability of new innovations to spread - usually brought to market by new entrants (startups) - and thus gain market share is  a critical topic to discuss. In most industries, while most startups with new products, processes, and business models fail, some of them succeed and do so by_ growing really quickly_, often backed by venture capital. Growth is everything to new companies. Actual venture capitalists will back me up on this point. And thus, the question of why new entrants (and more broadly, new _ideas_) in healthcare have trouble getting to any degree of national scale is of tantamount importance to the broader question of interest: why healthcare sucks. It's not clear that private entperise, optimized to get us to part with our hard earned dollars, is in a place to reduce overall health spending by the amounts necessary to bend the cost curve. But healthcare is broken in a myriad of other ways than simply price: the consumer experience is terrible, convinience is non existent, seamless communication amongst doctors is always just around the corner but never seems to get here, etc. New companies and new approaches should be able to fix _that_ at least, right? 
+
+
+Not if they can't grow and get to scale. The evidence from the last 20 years of attempts to subsantially change the opaque, wasteful, and frustrating care delivery apparatus  confirms just how difficult it is to get new ideas to scale in the healthcare market. Listing the ideas that have failed to live up to their promise is depressing, but I will do it anyways:
+
+- Bundled Payment Models
+- HMOs (Managed Care 1.0)
+- Centers of Excellence
+- ACOs (decimal point savings, gradually infiltrating the private market, but with unclear benefits)
+- Patient Centered Medical Homes (remember them?)
+- Price Transparency Initiatives coupled with High-Deductible Benefit Design to encourage shopping. 
+- EHRs, PHRs, and more generally, most attempts to leverage software to change care patterns.  
+- Convinience Care to replace unnecessary ER visits. 
+- Self-insurance and direct contracting for large to midsized employers. 
+- Group Purchasing Organizations (GPOs) to pool leverage.
+- Telemedicine
+- Alternative Primary Care Models (DPC, new insurance products, etc.)
+- Reference Pricing (evidence of success but not widely used). 
+
+To add to the importance of _market share_ as the key factor to focus on, consider that several of these ideas have shown promise in limited settings. Reference pricing for example has been [deployed by CalPERS](https://www.healthaffairs.org/do/10.1377/hblog20150707.049155/full/) to succesfully reduce the wide variation in prices that it paid for its members healthcare. But its not employed unversally in benefit designs. On the other side of the spectrum, EHRs have finally (after years) reached market penetrance in the U.S., but only after the government literally paid physicians to use them while converting the open design space of software into a set of boxes that had to be checked. Without government carrots and sticks the market had no interest in widespread adoption of EMRs. 
+
+Why have all these approaches failed to reach appreciable market share? 
+
+
+
+Healthcare is a goldmine of textbook market failures thriving on (1) incentive misalignment (2) information asymmetry and (3) a system frozen by byzantine contracting and regulatory structures, highly scaled incumbents operating highly scalable processes and local market entry barriers which ensure that share shifts are glacial. Innovation is kept comfortably on the margins.
+
+
+
+
+http://reconstrategy.com/2018/02/consider-this-speculative-amazon-scenario-in-your-strategic-planning/
+
+http://www.businessinsider.com/warren-buffett-on-berkshire-hathaway-jp-morgan-amazon-healthcare-venture-2018-2
+
+http://www.wfaa.com/news/nation-world/how-amazon-could-transform-american-health-care/523346548
+
+https://www.nytimes.com/2018/01/30/upshot/can-amazon-and-friends-handle-health-care-theres-reason-for-doubt.html
+
+https://25iq.com/2018/02/23/what-might-the-amazon-berkshire-and-jp-morgan-health-care-joint-venture-actually-do/
+
+https://twitter.com/search?f=tweets&vertical=default&q=amazon%20from%3Aamitabhchandra2%2C%20OR%20from%3ADShaywitz%2C%20OR%20from%3AVentureValkyrie%2C%20OR%20from%3AC_Garthwaite&src=typd&lang=en
+
+https://hbr.org/2018/02/what-could-amazons-approach-to-health-care-look-like
+
+https://twitter.com/search?f=tweets&vertical=default&q=amazon%20from%3Aamitabhchandra2%2C%20OR%20from%3ADShaywitz%2C%20OR%20from%3AVentureValkyrie%2C%20OR%20from%3AC_Garthwaite&src=typd&lang=en
+chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=amazon%20from%3Aanildash%2C%20OR%20from%3Ajtkolstad%2C%20OR%20from%3AzackcooperYale%20-%20Twitter%20Search&uri=https://twitter.com/search?l=&q=amazon%20from%3Aanildash%2C%20OR%20from%3Ajtkolstad%2C%20OR%20from%3AzackcooperYale&src=typd&lang=en
+https://twitter.com/search?f=tweets&vertical=default&q=amazon%20from%3AFarzad_MD%2C%20OR%20from%3Askraus%2C%20OR%20from%3Abijans%2C%20OR%20from%3Astephenkraus%2C%20OR%20from%3Achrissyfarr&src=typd&lang=en
+
+https://www.bloomberg.com/view/articles/2018-01-31/how-amazon-co-could-fix-health-care
+
+https://www.theatlantic.com/business/archive/2018/01/amazon-berkshire-jpmorgan-health-care/551858/
+
+https://stratechery.com/2018/amazon-health/
+
+https://www.nytimes.com/2018/01/30/technology/amazon-berkshire-hathaway-jpmorgan-health-care.html
+
+
+
+
+
 
 But how should we begin speculating in a way that gives us even a chance at making those speculations intellectually useful? I see 2 ways forward: 
 1. Analyze the strategies by Amazon has approached new industries and product-markets in the past. 
