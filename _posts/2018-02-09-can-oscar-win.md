@@ -7,7 +7,7 @@ Oscar is the poster-child of the new era of technology-enabled startups attempti
 
 But even with those numbers and financial backing from some of Silicon Valley's smartest money (Google Ventures, General Catalyst, Khosla Ventures, and Founders Fund to name a few early investors), Oscar has been met with skepticisim from most of the traditional healthcare community. Not just journalists, but really, really smart investors as well. And at first it's easy to agree with the doubters.
 
-For one, Oscare represents a **bold** bet by investors on a business model that is anathema to the type of companies venture investors typically make. Insurance is a low margin business. By law, 80-85% of every dollar of revenue must be spent paying for members care, meaning the days of 40% gross margins in health insurance are in the past and single digit gross (not net) margins are a real possiblility.  Contrast this to framous venture investments like Salesforce and Google, which both have gross-margins closer to 60-80%. 
+For one, Oscare represents a **bold** bet by investors on a business model that is anathema to model of companies investors typically fund. Insurance is a low margin business. By law, 80-85% of every dollar of revenue must be spent paying for members care, meaning the days of 40% gross margins in health insurance are in the past and single digit gross (not net) margins are a real possiblility.  Contrast this to framous venture investments like Salesforce and Google, which both have gross-margins closer to 60-80%. 
 
 Additionally, health insurance is generally not a pleasant industry for new entrants - especially when the new founding team has no industry background. Even just getting a product to the market in the health insurance industry requires building a network of physicians that meet network adequacy laws - it's no good having a network without any surgical oncologists in it! Building that network required Oscar to actually sit down with providers and hammer out contracts which determined what price Oscar was going to pay for provider services. Knowing what those contracts look like, what good benchmarks are, and actually getting physicians to partner with you are all hard to do without any experience. And to top it all off, you don't get consumer leeway in this business. Mistakes can permanently stain the reputation of a company and make it hard to acquire customers. 
 
@@ -129,7 +129,3 @@ https://hmpi.org/2017/09/08/scenario-planning-tools-for-organizations-struggling
 
 
 
-
-
-13.5x revenue
-Plan costs range from $450 - 850 PMPM. Average ~$6700 PMPY revenue. This is a premium product!
