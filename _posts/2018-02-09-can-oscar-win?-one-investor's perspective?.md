@@ -1,11 +1,20 @@
 
 I've wanted to write about Oscar Health, the NYC-based health insurer, for a long time now. I've been following their progress for several years now and, like many others, am fascinated by the ambition of their vision. I was curious to see whether they could buck the trend of health innovation failure and become a durable, long-lasting company. 
 
-It seems though that the company might have done most of my analysis for me. Oscar just released a comprehensive [report](https://www.hioscar.com/report) in which they discuss their vision for building a lasting health insurer and provide some pretty detailed data (relative to other venture-backed, private companies) that shows progress on achieving that vision.
+And recently, there's been a ton of news swirling around the company, which makes now as good a time as ever to get my thoughts out there. 
 
-Oscar is the poster-child of the new era of technology-enabled startups attempting to enter the healthcare industry. What started as the dream of current-CEO Mario Schlosser and his founding team has matured over the last 5 years into a full-blown health insurance company, covering close to 250,000 lives and projected to make $1.25 billion in revenue in 2018. It's captured the imagination of the public and members by promising everything that current inusurers don't: **simplicity and consumer delight.**
+But first, some background. Oscar is the poster-child of the new era of technology-enabled startups attempting to enter the healthcare industry. What started as the dream of current-CEO Mario Schlosser and his founding team has matured over the last 5 years into a full-blown health insurance company, covering close to 250,000 lives and projected to make $1.25 billion in revenue in 2018. It has tried to  capture the imagination of the public and members by promising everything that current inusurers don't: **simplicity and consumer delight.**
 
-But even with those numbers and financial backing from some of Silicon Valley's smartest money (Google Ventures, General Catalyst, Khosla Ventures, and Founders Fund to name a few early investors), Oscar has been met with skepticisim from most of the traditional healthcare community. Not just journalists, but really, really smart investors as well. And at first it's easy to agree with the doubters.
+But even with those numbers and financial backing from some of Silicon Valley's smartest money (Google Ventures, General Catalyst, Khosla Ventures, and Founders Fund to name a few early investors), Oscar has been met with skepticisim from most of the traditional healthcare community. Not just journalists, but really, really smart investors and former operators as well. If you're interested in Oscar and its chances, I recommend a series of posts by Dave Anderson, a current research associate at the Duke University Margolis Center, who has penned a some articles [here](https://www.balloon-juice.com/2016/06/20/oscar-and-what-do-they-do-differently/), [here](https://www.balloon-juice.com/2017/03/21/still-not-understanding-oscars-business-model/), [here](https://www.balloon-juice.com/2017/05/17/oscars-strategy-change-goes-meh/), and [here](https://www.balloon-juice.com/2018/03/05/the-other-oscar-thread/), if you're interested in the bear case. 
+
+And at first it's easy to agree with these doubters. 
+
+
+
+
+Oscar just released a comprehensive [report](https://www.hioscar.com/report) in which they discuss their vision for building a lasting health insurer and provide some pretty detailed data (relative to other venture-backed, private companies) that shows progress on achieving that vision.
+
+
 
 For one, Oscare represents a **bold** bet by investors on a business model that is anathema to model of companies investors typically fund. Insurance is a low margin business. By law, 80-85% of every dollar of revenue must be spent paying for members care, meaning the days of 40% gross margins in health insurance are in the past and single digit gross (not net) margins are a real possiblility.  Contrast this to framous venture investments like Salesforce and Google, which both have gross-margins closer to 60-80%. 
 
