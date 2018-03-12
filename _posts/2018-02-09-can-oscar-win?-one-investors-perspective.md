@@ -5,15 +5,16 @@ And recently, there's been a ton of news swirling around the company, which make
 
 But first, some background.
 
-## The Bear Scenario: Is Oscar Doomed to be Eternally Subscale?
-
 Oscar is the poster-child of the new era of technology-enabled startups attempting to enter the healthcare industry. What started as the dream of current-CEO Mario Schlosser and his founding team has matured over the last 5 years into a full-blown health insurance company, covering close to 250,000 lives and projected to make $1.25 billion in revenue in 2018. It has tried to  capture the imagination of the public and members by promising everything that current inusurers don't: **simplicity and consumer delight.**
 
 But even with those numbers and financial backing from some of Silicon Valley's smartest money (Google Ventures, General Catalyst, Khosla Ventures, and Founders Fund to name a few early investors), Oscar has been met with skepticisim from most of the traditional healthcare community for its entire existence. And itt wasn't just journalists with doubts either, but really, really smart investors and former operators as well.
 
-And they have some concerns that shouldn't be laughed off by those interested in the future of the company. So before I spell out why I'm ultimately **bullish** on Oscar's chances, let's take a look at what was worrying them. 
+And they have some concerns that shouldn't be laughed off by those interested in the future of the company. So before I spell out why I'm ultimately **bullish** on Oscar's chances, let's take a look at what was worrying them.
 
-If you're interested in Oscar and its fortunes, I recommend a series of posts by Dave Anderson, a current research associate at the Duke University Margolis Center and former operator at the UPMC Health Plan. He has  penned a some articles [here](https://www.balloon-juice.com/2016/06/20/oscar-and-what-do-they-do-differently/), [here](https://www.balloon-juice.com/2017/03/21/still-not-understanding-oscars-business-model/), [here](https://www.balloon-juice.com/2017/05/17/oscars-strategy-change-goes-meh/), and [here](https://www.balloon-juice.com/2018/03/05/the-other-oscar-thread/), which pretty comprehensively, and in a manner backed up by data, summarizes the bear view on Oscar: **because it's unclear what Oscar does differently than other insurers, and its unit economics don't paint the picture of profitability, it's difficult to imagine a future in which Oscar becomes a dominant player in the health insurance marketplace **.
+
+## The Bear Scenario: Is Oscar Doomed to be Eternally Subscale? 
+
+If you're interested in Oscar and its fortunes, I recommend a series of posts by Dave Anderson, a current research associate at the Duke University Margolis Center and former operator at the UPMC Health Plan. He has  penned a some articles [here](https://www.balloon-juice.com/2016/06/20/oscar-and-what-do-they-do-differently/), [here](https://www.balloon-juice.com/2017/03/21/still-not-understanding-oscars-business-model/), [here](https://www.balloon-juice.com/2017/05/17/oscars-strategy-change-goes-meh/), and [here](https://www.balloon-juice.com/2018/03/05/the-other-oscar-thread/), which pretty comprehensively, and in a manner backed up by data, summarizes the bear view on Oscar: **because it's unclear what Oscar does differently than other insurers, and its unit economics don't paint the picture of profitability, it's difficult to imagine a future in which Oscar becomes a dominant player in the health insurance marketplace**.
 
 Skeptics like Mr. Anderson (and others), make good points:
 
