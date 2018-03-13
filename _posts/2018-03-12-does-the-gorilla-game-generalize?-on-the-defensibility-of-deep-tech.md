@@ -26,7 +26,7 @@ In my opinion, the _The Gorilla Game_ attempts to answer 2 fundamental questions
 
 ### Explaining Hypergrowth 
 
-VCs love fast growth. They're under constant pressure to exit their companies within 10 years (at maximum), and because longer exits tank their IRR, they want the company to grow their user base as well as their revenue quickly. Additionally, as this [McKinsey piece](https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow) (aptly titled, 'Grow Fast or Die Slow') indicates, the market (both in the form of the public markets, as well as private acquirers) pays a premium for fast growth, even more so than for high margins (although the best venture investments have combined both)<sup>1<\sup>. 
+VCs love fast growth. They're under constant pressure to exit their companies within 10 years (at maximum), and because longer exits tank their IRR, they want the company to grow their user base as well as their revenue quickly. Additionally, as this [McKinsey piece](https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow) (aptly titled, 'Grow Fast or Die Slow') indicates, the market (both in the form of the public markets, as well as private acquirers) pays a premium for fast growth, even more so than for high margins (although the best venture investments have combined both)<sup>1
 
 
 
