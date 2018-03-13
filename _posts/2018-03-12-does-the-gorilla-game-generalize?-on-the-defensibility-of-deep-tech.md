@@ -2,7 +2,7 @@
 
 Geoffrey Moore is a legend in the technology industry. His three most famous books: _Crossing the Chasm_, _Inside the Tornado_, and _The Gorilla Game_ are must-reads for anybody interested in the industry, particularly if you're interested in B2B companies.
 
-Much to my own embarassment, I hadn't managed to finish any of the books, even though some of the best VCs of all time - most notably Bill Gurley and Andy Rachleff - highly recommend them. I wanted to rectify this. As Spring Break was fast approaching, I decided to start and finish _The Gorilla Game_.
+Much to my own embarassment, I only managed to get through about half of _Crossing the Chasm_ and none of the rest of his books, even though some of the best VCs of all time - most notably Bill Gurley and Andy Rachleff - highly recommend them. I wanted to rectify this. As Spring Break was fast approaching, I decided to start and finish _The Gorilla Game_.
 
 _The Gorilla Game_ does a great job of giving a high-level overview of the strategic dynamics that have defined the most successful venture capital investments of all time, from Microsoft to Cisco. Whether you want to know about the role of networking effects, lock-in/switching costs, or standards in propelling the most successful companies to dominance, this book is a good starting point. 
 
@@ -22,20 +22,46 @@ With that, let's begin.
 In my opinion, the _The Gorilla Game_ attempts to answer 2 fundamental questions that have underpinned the dynamics of technology-investing for the past 40+ years. 
 
 1. **Why do some product categories experience hypergrowth?**
-2. **Why does that growth (and the associated economic value) result in a predictable distribution of economic returns amongst firms (the so-called, "Gorilla", "Monkey", and "Chimp")?** That is, why do these product categories result in a dominant firm?
+2. **Why does that growth (and the associated economic value) result in a predictable distribution of economic returns amongst firms (the so-called, "Gorilla", "Monkey", and "Chimp")?** 
+
 
 ### Explaining Hypergrowth 
 
 VCs love fast growth. They're under constant pressure to exit their companies within 10 years (at maximum), and because longer exits tank their IRR, they want the company to grow their user base as well as their revenue quickly. Additionally, as this [McKinsey piece](https://www.mckinsey.com/industries/high-tech/our-insights/grow-fast-or-die-slow) (aptly titled, 'Grow Fast or Die Slow') indicates, the market (both in the form of the public markets, as well as private acquirers) pays a premium for fast growth, even more so than for high margins (although the best venture investments have combined both)<sup>1
 
+But a quick look at CAGR rates for various industries will demonstrate that fast growth is most definitely the exception in steady-state economies. I used McKinsey's _Valuation_ text, which placed median company growth rates at anywhere between 2-15% depending on the industry. Double digit growth certainly is good for companies in steady-state, but compared to the CAGRs of 25%+ that VCs like to see from their successful companies, it's pretty paltry. 
 
+So VCs need fast growth, but fast growth is rare. What are they to do?
 
+It just so happens, that with new, discontinuous product categories, there almost always hass been a period of hypergrowth associated with the mass-market adoption of that new category. This period of hypergrowth comes with 40% quarter-over-quarter and sometimes up to 200% year-over-year growth rates, which should send VCs salivating. Moore defined this type of growth as follows: "a compressed period of hypergrowth that occurs once in the life of a market, coinciding with the first surge of mass market adoption of any new technology." In the _The Gorilla Game_ model, hypergrowth in these new, discontinuous product categories is based on the dynamics of the technology adoption curve as first delineated by Everett Rogers in _The Diffusion of Innovations_. It's a pretty common model, so I won't belabor the details. Importantly though, it's a very generaizable model - both theoretically and empirically.
 
+Empirically, the 'S-curve' of adoption the model implies (as seen in the picture below) is seen time and time again accross new product categories, irrespective of their relation to the Information and Communication revolutions of the past half-century. While some of the innovations in the picture below are related to that revolution, many are both straight out of the industrial era and competitively/economically very different from the computing product categories (e.g. automobiles, stoves, washing machines).
 
+Inline-style: 
+![alt text](https://cdn.vox-cdn.com/thumbor/XaBddHOs5NjyA1bTyiNO-7JIouE=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6139611/blackrock-tech-adoption.png)
 
+Theoretically too, there's no fundamental reason why hypergrowth won't be seen with the new product categories that the Valley is making. The model splits the population of potential users for a discontinous product category into 5 sections (Innovators, Early Adopters, Early Majority, Late Majority, Laggards) , depending on what the individuals' response to the burdens and potential benefits of discontinuous product categories are. The fast growth associated with the entry of a product cateogry into the mass market (the early adopter segment) is due to 2 reasons. 
+
+I'll let the master of innovation diffusion, Everett Rogers, take the first. In _Diffusion of Innovations_ he states that, "The S-shaped curve of diffusion 'takes off' once interpersonal networks become activated in spreading individuals’ subjective evaluations of an innovation from peer to peer in a system. After that point, it is often impossible to stop the further diffusion of a new idea, even if one wished to do so.” Basically, adoption of innovations occurs by exchange of information in peer network, passed from one adopter to the next in a self-propagating chain. This is why Moore puts such an emphasis on _references_ in his book _Crossing the Chasm_. Growth is due to spreading of positive messages through social networks, which inherently create a 'take off effect', though the slope of the takeoff effect will vary between product categories. 
+
+Secondly, the early majority are _deliberate_. They will take time before completely making a decision and almost never lead the decision making process, but _will_ follow with willingness. This desire to follow as a group (as a 'herd' if you will) makes them adopt a new innovation as an entire group, creating a backlog of demand that new product categories will rush to satisfy, thus creating hypergrowth rates. 
+
+Moore's central innovation was to realize that there is a "chasm" between the early adopters and the early majority as a result of the early adopters' willingness to try new ideas, but inability (at least in enterprise markets) to serve as good references for the early majority. 
+
+I'll also note that while Moore has adapted the technology-life cycle model for business-to-business market development (hence the characterization of each of the groups in his books as members of the commercial population, e.g. visionaries as executives with a desire to utilize new technologies to achieve competitive advantage in their own product-markets), the model is _much_ more general than that. 
+
+But the takeaway, irrespective of whether we're thinking about consumer markets or enterprise markets, is the same. There is nothing about the Technology Adoption Lifecycle that is specific to the products of the ICT revolution. Although factors like the innovations' relative advantage, compatibility, observability, etc., will affect the rate of adoption for a new product category (thus influencing the magnitude of the growth rate), VCs can be assured that - assuming the new categories can solve consumer pain points with similar magnitude to that of the ICT revolutions previously - the growth rates in new product categories will on balance be large enough to support their investing model.
 
 
 ### Why One Firm?
+
+However, while Rogers' model of technology adoption can be applied to general product categories (and indeed can be applied to *any* innovation, commercial or otherwise), Moore's definition of hypergrowth is much more specific. To quote, ' Hypergrowth creates a unique set of marketplace dynamics that frequently will catapult a **single company** into a position of overwhelmingly dominant competitive advantage. This company becomes the gorilla, and the dominant competitive advantages it enjoys will allow it to generate exceptional returns to its investors for an unusually extended period."
+
+
+
+**Systems Competition and Networking Effects**
+
+**Switching Costs and Lock-in** 
 
 
 
