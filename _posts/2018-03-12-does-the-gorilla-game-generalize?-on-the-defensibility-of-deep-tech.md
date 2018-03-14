@@ -4,11 +4,11 @@ Geoffrey Moore is a legend in the technology industry. His three most famous boo
 
 Much to my own embarassment, I only managed to get through about half of _Crossing the Chasm_ and none of the rest of his books, even though some of the best VCs of all time - most notably Bill Gurley and Andy Rachleff - highly recommend them. I wanted to rectify this. As Spring Break was fast approaching, I decided to start and finish _The Gorilla Game_.
 
-_The Gorilla Game_ does a great job of giving a high-level overview of the strategic dynamics that have defined the most successful venture capital investments of all time, from Microsoft to Cisco. Whether you want to know about the role of networking effects, lock-in/switching costs, or standards in propelling the most successful companies to dominance, this book is a good starting point. 
+_The Gorilla Game_ does a great job of giving a high-level overview of the strategic dynamics that have defined competition  and the marketplace battles of the pre-Internet technology industry, encapsulated in companies like Microsoft and Cisco. Whether you want to know about the role of networking effects, lock-in/switching costs, or standards in propelling the most successful companies to dominance, this book is a good starting point. 
 
-But as someone who is growing more interested in so-called 'frontier technology' or 'deep-technology' investing, I read the book with one framing question: "Can the lessons of the Gorilla Game generalize?" That is, are the investing precepts discussed in the book useful for the next generation of pioneering companies? 
+But as someone who is growing more interested in so-called 'frontier technology' or 'deep-technology' investing, I read the book with one framing question: "Can the lessons of the Gorilla Game generalize?" That is, are the investing precepts discussed in the book useful for the next generation of pioneering companies? My goal with reading the book - as well as in writing this post - was to identify which trends from the last 40 years of venture investing are likely to persist as we take the leap of faith into a new cycle. 
 
-The reason why this question matters is two fold: 
+The reason why this goal matters is two fold: 
 
 1. **The distribution of companies that Sand Hill Road funds is changing.** All the best investment firms, from deep-technology specialists like Lux Capital, to the stalwarts of the VC era, like Sequoia, to the newest entrants, like a16z, have started to make some investments outside the traditional consumer internet and enterprise software categories. I don't have hard data to back this up, but anecdotes support this assertion. For example, Bilal Zuberi, one of the preeminent 'deep-tech' investors discusses this phenomenon [here](https://medium.com/bz-notes/deeptech-frontiertech-is-finding-home-among-vcs-cdbf6baeb96a), and the general proclamation that we're at the [end of the current cycle](http://blog.eladgil.com/2016/07/end-of-cycle.html) of venture investing seems to have become the new norm. Thus, irrespective of what types of new investments the firms have turned to making (deep tech is composed of a heterogenous group of product categories), understanding which principles of successful venture investing translate to this new domain (and which ones don't) is a critical, if underdiscussed topic. 
 2. **The competitive dynamics of successive computing and communications revolutions are not guaranteed to persist.** The Gorilla Game delves deep into a particular pattern of competition that seemed to persist amongst high-technology companies. I'll talk about this in more detail later, but in general, the type of competition that creates obscene growth rates, dominant firms in a particular product category, and the accompanying high-market capitalizations that have driven outlier returns for VCs are not guaranteed to occur in every new industry. For example, of the new companies formed in the industrial era, only a few (e.g. AT&T, RCA) brought to market products that exhibited similar competitive dynamics to modern high-technology firms. Venture-backed biotechnology and medical device companies have create a pharmacopeia of life-saving medical interventions over the last 30 years, but the competitive model (and the funding model) they employ is drastically different. And while everyone brings up this example, the clean-tech investing binge clearly demonstrated the dangers of expecting companies with drastically different economic profiles to exit at valuations similar to past venture investments in software and semiconductors. Basically, investing is driven by economic fundamentals and thus if the economic fundamentals of the future technology commercialization change, the funding model for that commercialization should change as well! Thus it's important to try to understand the competitive dynamics that will govern new product categories. 
@@ -33,7 +33,7 @@ But a quick look at CAGR rates for various industries will demonstrate that fast
 
 So VCs need fast growth, but fast growth is rare. What are they to do?
 
-It just so happens, that with new, discontinuous product categories, there almost always hass been a period of hypergrowth associated with the mass-market adoption of that new category. This period of hypergrowth comes with 40% quarter-over-quarter and sometimes up to 200% year-over-year growth rates, which should send VCs salivating. Moore defined this type of growth as follows: "a compressed period of hypergrowth that occurs once in the life of a market, coinciding with the first surge of mass market adoption of any new technology." In the _The Gorilla Game_ model, hypergrowth in these new, discontinuous product categories is based on the dynamics of the technology adoption curve as first delineated by Everett Rogers in _The Diffusion of Innovations_. It's a pretty common model, so I won't belabor the details. Importantly though, it's a very generaizable model - both theoretically and empirically.
+It just so happens, that with new, discontinuous product categories, there almost always has been a period of hypergrowth associated with the mass-market adoption of that new category. This period of hypergrowth comes with 40% quarter-over-quarter and sometimes up to 200% year-over-year growth rates, which should send VCs salivating. Moore defined this type of growth as follows: "a compressed period of hypergrowth that occurs once in the life of a market, coinciding with the first surge of mass market adoption of any new technology." In the _The Gorilla Game_ model, hypergrowth in these new, discontinuous product categories is based on the dynamics of the technology adoption curve as first delineated by Everett Rogers in _The Diffusion of Innovations_. It's a pretty common model, so I won't belabor the details. Importantly though, it's a very generaizable model - both theoretically and empirically.
 
 Empirically, the 'S-curve' of adoption the model implies (as seen in the picture below) is seen time and time again accross new product categories, irrespective of their relation to the Information and Communication revolutions of the past half-century. While some of the innovations in the picture below are related to that revolution, many are both straight out of the industrial era and competitively/economically very different from the computing product categories (e.g. automobiles, stoves, washing machines).
 
@@ -55,7 +55,15 @@ But the takeaway, irrespective of whether we're thinking about consumer markets 
 
 ### Why One Firm?
 
-However, while Rogers' model of technology adoption can be applied to general product categories (and indeed can be applied to *any* innovation, commercial or otherwise), Moore's definition of hypergrowth is much more specific. To quote, ' Hypergrowth creates a unique set of marketplace dynamics that frequently will catapult a **single company** into a position of overwhelmingly dominant competitive advantage. This company becomes the gorilla, and the dominant competitive advantages it enjoys will allow it to generate exceptional returns to its investors for an unusually extended period."
+However, while Rogers' model of technology adoption can be applied to general product categories (and indeed can be applied to *any* innovation, commercial or otherwise), Moore's definition of hypergrowth is much more specific. To quote Moore again, he states that 'Hypergrowth creates a unique set of marketplace dynamics that frequently will catapult a **single company** into a position of overwhelmingly dominant competitive advantage. This company becomes the gorilla, and the dominant competitive advantages it enjoys will allow it to generate **exceptional returns to its investors for an unusually extended period**."
+
+It's not a secret that venture investors want to invest in companies that are durable and have a moat - monopolies if possible. Peter Thiel bragged very publically about it in _Zero to One_. 
+
+But it's worth it to consider that this distribution of returns is not the norm in most industries. Unlike hypergrowth periods in the adoption of new product categories, the economic characteristics that create dynamics in which a single firm can dominate markets have been particularly localized to the ICT revolution, with precious few examples outside of the communications industry prior to 1950. So what characteristics of high-technology companies have allowed this abnormal distribution of value creation?
+
+
+In a world dominated by Google, Facebook, Uber, AirBnB, it's no suprise that the obvious answer to that question is "networking effects". But to 
+
 
 
 
@@ -64,6 +72,21 @@ However, while Rogers' model of technology adoption can be applied to general pr
 **Switching Costs and Lock-in** 
 
 
+## Deep Tech Defensibility
+
+## Drones
+
+## Autonomous Vehicles
+
+
+
+
+## What Moore Got Wrong 
+
+### Applications vs. Enabling Technologies
+
+
+### A Sidebar: Are Deep Technology Product Categories Discontinuous?
 
 
 1. Why this prioritization of growth over margin structure? The reasons are many and hard to completely delineate. But here's a summary. Firstly, growth means that you can have larger future revenues and thus cash flows, which makes any DCF model happy. Secondly, growth is a powerful signal that the company has tapped into a huge and desperate pain point. Investors are usually willing to assume that margin structures will work themselves out because lightning fast growth is a signal that the company has a defined competitive advantage over competitors and thus will likely not have margin issues. That is, past experience has shown a strong correlation between fast growth and high margins - companies like Microsoft, Cisco, etc., have all grown fast, but combined this growth with high margins. This is the fundamental crux of _The Gorilla Game_. Lastly, growth is **hard**.  If you crack open McKinsey's _Valuation_ textbook and flip to the section on growth, you'll come away with one key takeaway - market share shifts in a steady state competitive environment are marginal at best, even for firms with a distinct advantage manifesting in price or lower costs. So investors are willing to pay for reveue growth in excess of general economic growth rates because its so rare. 
