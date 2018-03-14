@@ -57,33 +57,30 @@ But the takeaway, irrespective of whether we're thinking about consumer markets 
 
 However, while Rogers' model of technology adoption can be applied to general product categories (and indeed can be applied to *any* innovation, commercial or otherwise), Moore's definition of hypergrowth is much more specific. To quote Moore again, he states that 'Hypergrowth creates a unique set of marketplace dynamics that frequently will catapult a **single company** into a position of overwhelmingly dominant competitive advantage. This company becomes the gorilla, and the dominant competitive advantages it enjoys will allow it to generate **exceptional returns to its investors for an unusually extended period**."
 
-It's not a secret that venture investors want to invest in companies that are durable and have a moat - monopolies if possible. Peter Thiel bragged very publically about it in _Zero to One_. 
+It's not a secret that venture investors want to invest in companies that are durable and have a moat - monopolies if possible. Investors want to be rewarded for solving a problem for consumers, and without a dominant competitive advantage, any rewards will we be competed away to the cost of capital. And although the distribution of market share and economic rewards can vary in many venture success stories (not every successful venture outcome resulted in a company taking 70+ % market share), Moore isn't wrong that when thinking about the truly dominant companies of the venture-backed era - the ones that have both been true outliers even for the best of funds and forever imprinted their name in the annals of technology history - the distribution of market share in disproportionate manner to the one winner is a common theme. 
 
-But it's worth it to consider that this distribution of returns is not the norm in most industries. Unlike hypergrowth periods in the adoption of new product categories, the economic characteristics that create dynamics in which a single firm can dominate markets have been particularly localized to the ICT revolution, with precious few examples outside of the communications industry prior to 1950. So what characteristics of high-technology companies have allowed this abnormal distribution of value creation?
+But it's worth it to consider that concentration of market share in one major firm and the correspodning allocation of economic returns  is not the norm in most industries. Unlike hypergrowth periods in the adoption of new product categories, the economic characteristics that create dynamics in which a single firm can dominate markets have been particularly localized to the ICT revolution, with precious few examples outside of the communications industry prior to 1950. So what characteristics of high-technology companies have allowed this abnormal distribution of value creation?
 
+In a world dominated by Google, Facebook, Uber, AirBnB, it's no suprise that the obvious answer to this question is "networking effects". But to simply stop there does a disservice to the fundamental reasons why the technology industry - even in an era prior to that of social networking and multi-sided platforms like Facebook and Uber - had examples of near monopolies dominating their respective value chains.
 
-In a world dominated by Google, Facebook, Uber, AirBnB, it's no suprise that the obvious answer to that question is "networking effects". But to 
+Taking a more nuanced view of competitive dynamics in the ICT industry reveals a couple of key facts that drive the economic structure:
 
+#### Systems Competition
 
+The technology industry's products are all architecturally linked. That is, they build upon each other. Individual circuits are useless withouth hardware systems to incorporate them, hardware is useless without systems software to organize the hardware, and systems software is in turn useless without application software or content that directly generates value for consumers. The result of this layering is three fold:
 
+1. It's highly unlikely that one firm can make all the components necessary to provide _any given_ end product to users, no matter how trivial, which increases the strategic importance of the interlinks between different components of an architecture, each of which might be made by a differing firm. 
+2. There are many, many _complementary products_ that form important competitive considerations to any given firms' own offering. 
+3. There becomes distinct _vertical_ and _horizontal_ strategies in make/buy decisions. Horizonal companies try to both dominate the competition in a few components of the overall system (e.g. Intel vs. ADM in microprocessors) and improve the value of their components relative to the others making up the system (e.g. microprocessors vs. DRAM - one is more valuable than the other). Vertical companies eschew this logic in order to control their products more closely, often trying to build a substantial amount of the end-product themselves and tightly controlling the components they allow to come from other firms (they also tend to try to own the end user relationship in a much more direct manner to stimulate purchases of their system, whereas only _one_ horizontal firm would have that competency). 
 
-**Systems Competition and Networking Effects**
+Any time competitive dynamics depend on interfaced components commanding value together but not apart, economists refer to the resulting competitive situation as exhibiting **systems competition**. Systems competition inherently creates **indirect network structure** (e.g. two-sided network structure) and thus the competitive dynamics mirroring that of the multi-sided platforms we know so well today, even if the 'platforms' we're talking about were not bringing two human parties together to exchange services. This is because in these systems, certain components **interface** with many other complements and are core to their functioning well together. Customers don't directly care about the number of users of a particular component (e.g. a PC OEM wouldn't directly benefit by more OEMs using Intel's standards). However, they care indirectly. The more popular a given component is with consumers, the more other components will have to be designed to work with that popular component, and because the complement components add value to the overall whole, the more interfaced components adds more value to the marginal consumer. The cycle that this kicks off is emblematic of the competitive dynamics of product categories governed by indirect network effects. 
 
-**Switching Costs and Lock-in** 
+The canonical example of these dynamics occured in PC operating systems. But even in microprocessors this type of indirect network effect persisted, catapaulting Intel to near monopoly status. Even in this decidedly _non-networked_ business, because Intel's microprocessors  interacted with every potential PC peripheral, every core component (e.g. memory), provided functionality for any new system level functions that consumers wanted, and most importantly was only compatible with Windows - the dominant operating system -  their microprocessor product category had many complementary products it could leverage as an ecosystem. The value of Intel's microprocessors to its customers in the PC-value chain (mainly OEMs) thus increased with the size and value of the ecosystem of complementary products (both in the hardware layer as well as above, in the software layer) that were built to run with Intel's products alone. And as more consumers used Intel's microprocessors, its behooved those connecting hardware and software makers to connect with Intel's processors above others. Thus a 'standard' was born. 
 
+Moore argues that this 'de-facto' standardization derives from early-majority consumer conservative impulses, which lead them to want to standardize their products and buy only from market leaders. Perhaps that is also a contributing factor, but even outside of demand side considerations, supply side economic characteristics inherent in systems competition can create de facto standardization. 
 
-## Deep Tech Defensibility
+In my opinion, the important takeaway from this is simply that when the end products bought by end users (be it enterprise users or consumer users) are made up of complex systems of components that have little value outside of that system (complements), there are opportunities for certain components to exhibit indirect networking effects that can result in the type of disproportionate market share and market capitalization allocations that have been seen in the past. 
 
-## Drones
-
-## Autonomous Vehicles
-
-
-
-
-## What Moore Got Wrong 
-
-### Applications vs. Enabling Technologies
 
 
 ### A Sidebar: Are Deep Technology Product Categories Discontinuous?
