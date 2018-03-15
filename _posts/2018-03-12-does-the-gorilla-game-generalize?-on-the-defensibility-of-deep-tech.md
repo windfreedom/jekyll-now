@@ -1,5 +1,6 @@
-
-
+---
+published: false
+---
 Geoffrey Moore is a legend in the technology industry. His three most famous books: _Crossing the Chasm_, _Inside the Tornado_, and _The Gorilla Game_ are must-reads for anybody interested in the industry, particularly if you're interested in B2B companies.
 
 Much to my own embarassment, I only managed to get through about half of _Crossing the Chasm_ and none of the rest of his books, even though some of the best VCs of all time - most notably Bill Gurley and Andy Rachleff - highly recommend them. I wanted to rectify this. As Spring Break was fast approaching, I decided to start and finish _The Gorilla Game_.
