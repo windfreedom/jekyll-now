@@ -1,3 +1,6 @@
+---
+published: false
+---
 
 I've wanted to write about Oscar Health, the NYC-based health insurer, for a long time now. I've been following their progress for several years now and, like many others, am fascinated by the ambition of their vision. I was curious to see whether they could buck the trend of health innovation failure and become a durable, long-lasting company. 
 
