@@ -1,3 +1,6 @@
+---
+published: false
+---
 
 
 In his famous book _Only the Paranoid Survive_, Andy Grove displayed one of the most important diagrams in the annals of technology strategy.
