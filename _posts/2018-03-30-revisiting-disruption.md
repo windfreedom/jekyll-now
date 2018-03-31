@@ -24,7 +24,7 @@ Before I can extend the theory of disruption to incorporate more types of new en
 In a sense, each of the issues raised above are **constraints** on the problem formulation that Christensen tried to answer. In part, Christensen was able to derive such an elegant solution because he constrained the problem so rigidly. As with many computational problems, constraining the parameters that can vary freely in a problem tends to help yield tractable solutions. The challenge then, is to gradually relax each of these constraints without losing the most critical part of Christensen's theory: an explanation of why incumbent firms (should they exist), will be **structurally** unable to respond to the innovating new entrant, irrespective of the resources and/or managerial excelllence marshalled by the incumbent. Without such an explanation, the theory has broken what made Christensen's theory so attractive in the first place - hope for startups. 
 
 
-## Rebuiling Disruption
+## Rebuilding Disruption from the Grounds Up
 
 In relaxing many of the constraints (particularly #1 and #2 above), my ability to generate a tractable solution that meets the high-standards of Christensen's original theory will definitely be compromised. To solve this problem, I begin by imposing new constraints on the problem space. Specifically, I will return to the third point I made above: **the dynamics of launching a new product category into a new market are fundamentally different from trying to attack markets well served by existing value chains**. 
 
