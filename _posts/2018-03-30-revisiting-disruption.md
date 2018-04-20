@@ -1,5 +1,6 @@
-
-
+---
+published: false
+---
 It's no secret that Silicon Valley's favorite business school professor is Clayton Christensen. 
 
 
