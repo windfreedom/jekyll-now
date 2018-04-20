@@ -15,16 +15,23 @@ There are a lot of definitions for 'deep-tech', 'frontier-tech', and/or 'hard-te
 
 I think all the definitions are to a certain extent accurate descriptions of the investing processes of the best so-called 'deep-tech' investors.. But none of them are based in the principles underpinning successful new company formation. My definition, which attempts to take these factors into account, is as follows:
 
-> A deep technology company is one that is attempting to commercialize a product that is only made possible due to a order-   > of-magnitude change in technological capabilities, a change that is driven by the company in question. These companies       > attempt to create value and build defensibility by leveraging the unique and difficult nature of the technological change   > in question.  
+> **A deep technology company is one that is attempting to commercialize a product that is only made possible due to a order-   of-magnitude change in technological capabilities, a change that is driven (and developed) by the company in question. Additionally, the change in technological capabilities is closely related to the companies ability to create value for customers and build defensibility **
+
+
+I think this definition is broad enough
 
 ## Topic 2: Why is Deep-Tech Interesting?
 
-I think that anybody who wants to understand - at it's most fundamental level - the nature technical innovation and its relation to  value creation and the formation of new businesses has to expand their study to include the time period from 1850 - 1925. Three books, _Creating the Twentieth Century_ and _Transforming the Twentieth Century_ by Valcav Smil, as well as _Engines that Move Markets_ by Alasdair Nairn (hard to find) chronicle the rapid invention and commercialization 
+The canonical history of the venture capital industry places its beginnings in the late-1940s with George Doriot's founding of ARDC and subsequent funding of DEC. The canonical history of the 'technology' industry places its beginnings somwhere between the creation of IBM and its tabulating machines,and the birth of Fairchild Semiconductor. Both are overly restrcitive to their respective instutions. This posits the 'technology' industry that which 
+
+I think that anybody who wants to understand, at it's most fundamental level, the nature technical innovation and its relation to  value creation and the formation of new businesses has to expand their study to include the time period from 1850 - 1925. Three books, _Creating the Twentieth Century_ and _Transforming the Twentieth Century_ by Valcav Smil, as well as _Engines that Move Markets_ by Alasdair Nairn (hard to find) chronicle the rapid invention and commercialization 
 
 
 ## Topic 3: Should Silicon Valley Stick to Software? Is Software Special?
 
 ## Topic 4: The False Dichotomy Between 'Software' and 'Hard-Tech' Investing.
+
+As indicated by Topic 3, for a while now (according to Marc Andreesseen, at least since the Internet Bubble in 2000) 
 
 ## Topic 5: Risk and Models of Successful New Company Entrance. 
 ## Topic 6: Thinking About Capital Intensity in Deep-Tech Companies.
