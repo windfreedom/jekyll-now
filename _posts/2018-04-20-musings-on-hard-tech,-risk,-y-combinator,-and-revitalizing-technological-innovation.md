@@ -15,19 +15,32 @@ There are a lot of definitions for 'deep-tech', 'frontier-tech', and/or 'hard-te
 
 I think all the definitions are to a certain extent accurate descriptions of the investing processes of the best so-called 'deep-tech' investors.. But none of them are based in the principles underpinning successful new company formation. My definition, which attempts to take these factors into account, is as follows:
 
-> **A deep technology company is one that is attempting to commercialize a product that is only made possible due to a order-   of-magnitude change in technological capabilities, a change that is driven (and developed) by the company in question. Additionally, the change in technological capabilities is closely related to the companies ability to create value for customers and build defensibility **
+> **A deep technology company is one that is attempting to commercialize a product that is only made possible due to a order-   of-magnitude change in technological capabilities, a change that is driven (and developed) by the company in question. Additionally, the change in technological capabilities is closely related to the companies ability to create value for customers and build defensibility.**
 
 
 I think this definition is broad enough
 
 ## Topic 2: Why is Deep-Tech Interesting?
 
-The canonical history of the venture capital industry places its beginnings in the late-1940s with George Doriot's founding of ARDC and subsequent funding of DEC. The canonical history of the 'technology' industry places its beginnings somwhere between the creation of IBM and its tabulating machines,and the birth of Fairchild Semiconductor. Both are overly restrcitive to their respective instutions. This posits the 'technology' industry that which 
+The canonical history of the venture capital industry places its beginnings in the late-1940s with George Doriot's founding of ARDC and subsequent funding of Digital Equipment Corporation. The canonical history of the 'technology' industry  on the other hand places its beginnings somwhere between the creation of IBM and its tabulating machines at the turn of the century, Turing's famous paper on the  _Entscheidungsproblem_,  and the birth of Fairchild Semiconductor in the 1950s. However, I think those definitions are overly restrcitive. They both posit the 'technology' as synonymous with the fruit that has been borne out of the seemingly inexorable rise of computing in the latter half of the twentieth century. But in reality, technology, and the job of commercializing it, have a much broader history. 
 
-I think that anybody who wants to understand, at it's most fundamental level, the nature technical innovation and its relation to  value creation and the formation of new businesses has to expand their study to include the time period from 1850 - 1925. Three books, _Creating the Twentieth Century_ and _Transforming the Twentieth Century_ by Valcav Smil, as well as _Engines that Move Markets_ by Alasdair Nairn (hard to find) chronicle the rapid invention and commercialization 
+In fact, I think that anybody who really wants to understand the  fundamental nature of technical innovation and its relation to  the formation of new businesses has to expand their study to include the time period from 1850 - 1925. 
+
+My thinking on this topic has really been shaped by three books, _Creating the Twentieth Century_ and _Transforming the Twentieth Century_ by Valcav Smil, as well as _Engines that Move Markets_ by Alasdair Nairn (hard to find), each of which partly chronicles the rapid invention and commercialization of a set of radically discontinuous and foundational set of products during the brief latter half of the 19th and early 20th century. It was in this time that modernity as we've come to understand it was built. 
+
+We're all pretty familiar with even a rudimentary list of the the products brought to market in this time period. They include: telephones, sound recordings, permanent dynamos, chemical pulp,  reinforced concrete, affordable electric lights, electricity-generating plants, electric motors and trains, transformers, steam turbines, the process of crude oil refining, the gramophone, popular photography, practical gasoline-fueled internal combustion engines, motorcycles, automobiles, aluminum production, crude oil tankers, air-filled rubber tires, steel- skeleton skyscrapers, prestressed concrete, diesel engines, x-rays, movies, air liquefaction, the first wireless signals, mass-produced cars, the first airplanes, tractors, radio broadcasts, vacuum tubes, tungsten light bulbs, neon lights, common use of halftones in printing, stainless steel, hydrogenation of fats, air conditioning, a host of electric-motor powered home appliances (e.g. fridges), and the Haber-Bosch synthesis of ammonia. 
+
+When you analyze the history of these products, a couple of key lessons stand out:
+
+1.**Every industry sector or product category we consider 'boring' today - think utilities, specialty and commodity chemicals, home appliances, etc. - were once high growth, 'exciting', opportunities.**  Of course, we don't consider any of those sectors as fast growing anymore. We don't even really call them 'technology'. But in their time, these product categories  were exemplars of radical technical innovation. That is, they were the 'tech' products of their age. Correspondingly, the companies that commercialized those core products were the fastest growing, most lucrative investments around (even if the investors were not professionalized into a class we would recognize as 'venture capital')  - much like software startups are today. The cities that hosted these developers of technical innovation became hotbeds for supporting complementary innovations - much like Silicon Valley has for the broader computing industry. This, to me, implies that while there _are_ important differences between investing in software today and what would have been investing in many of these products above one hundred years ago, in reality what made software (and computing more broadly) the epicenter of the technology and venture capital world for the last 20 years was simply its place as the novel, innovative technological frontier and thus the area where growth was possible. Investors hence flocked to the sector. The second key takeaway here is that - even though computing and, more recently, software has defined the industry in which growth has occurred,  we shouldn't assume that it's the _only_ form factor for commercial scale technologies. Each invention above was radical, built in the world of atoms, and was rapidly commercialized and improved after invention. 
+2. I also think that even when we do realize the highly technical nature of past innovations, what we  we seem to forget is that many of these products build the foundations of durable and long lasting businesses as well. We tend to believe that older companies 
+
+What does this all have to do with deep-tech? 
 
 
 ## Topic 3: Should Silicon Valley Stick to Software? Is Software Special?
+
+
 
 ## Topic 4: The False Dichotomy Between 'Software' and 'Hard-Tech' Investing.
 
