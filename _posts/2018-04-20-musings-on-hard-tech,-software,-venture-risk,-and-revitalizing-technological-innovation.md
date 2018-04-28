@@ -1,7 +1,7 @@
 
-I don't like blog posts that start with personal announcements, so I apologize for the hypocrisy that is this post. But in this case, I think the personal update will preface some of the topics I'm going to discuss in the post. 
+I want to start this blog post with an apology. Unlike most blog posts, which are tightly coupled to a specific topic or theme, this one will be markedly less so. That's because, unlike most blog posts, which are written for me to communicate a specific idea I already have formed to others, this blog post was written to explicilty provide a canvas for thinking about my answers to host of interrelated and important questions. I apologize for this explicit disorganization, but throughout the piece I'll hope to explain why think the questions I'm attempting to answer are so crucial.
 
-This summer, as a result of some meandering, cold emailing, and, most importantly, the generosity of Adam Gouldburn and Zavain Dar at Lux , I am going to be starting a position as a summer associate at Lux Capital, a firm famous for their relentless focus on so-called 'deep-tech' or 'frontier-tech' investing.  I've long admired Lux for this deep committment to finding and investing in businesses that use  radical advances in technology as the fundamental basis for both their value creation and value capture strategies - a truly contrarian strategy even in an age when the meaning of that term has been diluted. As part of preparing to join them this summer, as well as part of my own interest in the practice of 'deep-technology' investing, I've attempted to explore the area more deeply, and in doing so, have come across a few key questions and controversial areas that I'd like clarify and disseminate my thoughts on. This post is an attempt to do just that. 
+The origins of this post start with a job offer. This summer, as a result of some meandering, cold emailing, and, most importantly, the generosity of Adam Gouldburn and Zavain Dar at Lux , I am going to be starting a position as a summer associate at Lux Capital, a firm famous for their relentless focus on so-called 'deep-tech' or 'frontier-tech' investing.  I've long admired Lux for this deep committment to finding and investing in businesses that use radical advances in technology as the fundamental basis for both their value creation and value capture strategies - a truly contrarian strategy even in an age when the meaning of that term has been diluted. As part of preparing to join them this summer, as well as part of my own interest in the practice of 'deep-technology' investing, I've attempted to explore the area more deeply, and in doing so, have come across a few key questions and controversial areas that I'd like clarify and disseminate my thoughts on. This post is an attempt to do just that. 
 
 ## Topic 1: First of all, what is 'deep-tech', 'frontier-tech', or 'hard-tech' investing?
 
@@ -20,7 +20,7 @@ I think all the definitions are to a certain extent accurate descriptions of the
 
 I think this definition is broad enough
 
-## Topic 2: Why is Deep-Tech Interesting?
+
 
 The canonical history of the venture capital industry places its beginnings in the late-1940s with George Doriot's founding of ARDC and subsequent funding of Digital Equipment Corporation. The canonical history of the 'technology' industry  on the other hand places its beginnings somwhere between the creation of IBM and its tabulating machines at the turn of the century, Turing's famous paper on the  _Entscheidungsproblem_,  and the birth of Fairchild Semiconductor in the 1950s. However, I think those definitions are overly restrcitive. They both posit the 'technology' as synonymous with the fruit that has been borne out of the seemingly inexorable rise of computing in the latter half of the twentieth century. But in reality, technology, and the job of commercializing it, have a much broader history. 
 
@@ -38,7 +38,21 @@ When you analyze the history of these products, a couple of key lessons stand ou
 What does this all have to do with deep-tech? 
 
 
-## Topic 3: Should Silicon Valley Stick to Software? Is Software Special?
+
+## Topic 3: Where will growth come from; computing or elsewhere? 
+
+
+Ultimately, VCs, deep-tech or otherwise, are interested in understanding where _change_ is going to come from. Donald Valentine once said, " See, venture capital is very reducible to a few words. You have to be interested in **managing change**, and you have to recognize that change is _necessary_". Of course, musings on the future of technological innovation is not stricly a part of our day job, and it would be a  misnomer to believe that VCs can proactively predict or shape the directions of technological change (even the most 'thesis-driven' investors are somewhat reactive). But, this inability to actually shape these trends also provides VCs an advantage in attempting to forecast them: we also have the right distance from the issue to attempt to answer it objectively and without certain types of bias.
+
+The first subquestion that one must answer before attempting forecast where growth comes from will be to understand how to _identify_ growth when it occurs. The biggest way I see is to try and understand what individuals from the past would find strange or otherwise mind-blowing if they were brought from their time to the present. Unforunately, if you brought someone from say, 1920, to the present, there is much they _would_ recognize.  This lack of change in a set of domains of life is partly what deep-tech investors (see the previous topic) are attempting to change by being willing to broaden their understanding of what consistutes technology and be willing, to paraphrase Lux Managing Partner Josh Wolfe, to invest not just in the innovations spun from the computer science department, but from the chemistry, biology, and physics departments too. 
+
+
+
+
+
+## Topic 3: What about Software? Should Silicon Valley Stick to Software? Is Software Special?
+
+Now that some of my thoughts about the general technology industry are laid down, the elephant in the room has to be addressed. How does the future of computing play into the visions 
 
 
 
