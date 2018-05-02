@@ -81,3 +81,4 @@ https://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny
 http://blog.eladgil.com/2016/07/end-of-cycle.html
 https://news.greylock.com/the-next-great-platform-is-the-one-that-we-already-have-9c33a1236c37
 http://mattturck.com/frontiertech/
+https://techcrunch.com/2018/04/28/investing-in-frontier-technology-is-and-isnt-cleantech-all-over-again/
