@@ -1,23 +1,49 @@
 
 When most VCs get asked the question: "How do you evaluate investment opportunities?" (or some variation of that question), most have a fairly generic response. Make sure you're in a fast-growing (and eventually, really big) market. Solve a real pain point for your customers ('Vitamins not aspirin'). Have a dynamite team tailored for the job at hand. Make sure the product can be good enough to find product-market fit, if not the be best possible product in the category.  Think about whether the business is defensibile (and therefore can generate good, sometimes great, margins). Etc. Etc. There are often other things discussed too, but you get the point. It's a simple answer, and a correct one.
 
-The answer is just generic enough to be both _right_ - these factors in a company are **very** important and thus universally considered by every investor - and not detailed enough to satiate me or provide any sort of unique insight. The answer also falls in line with what people want to believe about venture - that it's _simple_ but _difficult_. The idea that you should look at the market, team, product, and  defensibility is a very _simple_ framework for investing, but one that's probably devilishly difficult to perform in practice. And I agree with that sentiment about the nature of the venture business. But still, the answer has never satisfied me. In addition to the critiques I just talked about, the answer is tactical, not strategic in nature; it describes micro-actions that all companies should take, but doesn't zoom out to see the map and route of travel.
+The answer is just generic enough to be both _right_  and not detailed enough to provide any sort of unique insight. The answer also falls in line with what people want to believe about venture - that it's _simple_ but _difficult_. The idea that you should look at the market, team, product, etc., is a very _simple_ framework for investing, but one that's probably devilishly difficult to perform in practice. And  while I agree with that sentiment about the nature of the venture business,  the answer has still never satisfied me. 
 
-To put it simply, it's always seemed like the "Venture Captial 101" answer, designed to be right and not mislead students, but also designed to hide nuances that professionals have internalized. It seemed obvious to me that I should try and go find the "Venture Capital 200" answer and really explore the nuances.
+To put it simply, it's always seemed like the "Venture Captial 101" answer, designed to be right and not mislead students, but also designed to hide nuances that professionals have internalized. It seemed obvious to me then that I should try and go find the "Venture Capital 200" answer and really explore the nuances.
 
-More generally though, I wanted to also plumb the depths of technology history to really come to a deep grasp of the competitive effects of technological innovation. Competitive strategy and technological innovation have developed in two separate, isolated silos. There have been some famous mental models describing the nature of innovation. Christensen's Disruption Theory as well as the Utterback "Dominant Design" paradigms come to mind. There's also been a great amount of literature describing the factors that affect the competitive position of a business, and strategies businsess use to generate competitive advantage. And lastly - as stated above - much of the common tactical advice on how entrepreneurs should build companies has also been disseminated due to the explosion in the number of and interest in entrepreneurship and venture. However, no one theory has tied together the disparate threads and mental models from these three domains into one coherent narrative that answers critical questions about startup success. And so I'm most interested in creating a typology of different situations in which technological innovation can allow for new entrants to succeed, either at the expense of incumbents, or not. 
+Additionally, for a long time I've wanted to write a post on the concept of entrepreneurial strategy, the guiding princples of strategy that entrepreneurs should consider when launching businesses, which ideally should incorporate themes from competitive strategy, literature on the nature of technological innovation, as well as the prevaling wisdom about startup formation that has disseminated in the last decade. The literature base for each of these three areas is vast. There have been some famous mental models describing the nature of innovation. Christensen's Disruption Theory as well as the Utterback "Dominant Design" paradigms come to mind. There's also been a great amount of literature describing the factors that affect the competitive position of a business, and strategies businsess use to generate competitive advantage. And lastly - as stated above - much of the common tactical advice on how entrepreneurs should build companies has also been disseminated due to the explosion in the number of and interest in entrepreneurship and venture. But, the three areas have developed in separate, isolated silos, with very little attempt made (that I can tell) to weave the strands together into a coherent framework that can guide both entrepreneurs, but also provide an answer to the question of "How do you evaluate startups?" that I presented at the outset of this piece.
 
-My model for synthesizing all this information has taken elements from 6 critical frameworks developed by others: The Basics of Competitive Strategy, Andy Grove's Strategic Dynamics Framework, Christensen's Theory of Disruptive Innovation, Utterback and Abernathy's Dominant Design Paradigm, David Teece's "Who Profits from Innovation" Framework, and - for lack of a better name - various works that describe the economic logic of general purpose technologies. No one framework gave me all the answers - nor should I have expected too. If there was just one 'right' framework with which to analyze technology investing, everyone would build their investment strategies around it and by definition, there would be no outsized returns. However, what I did find was that by reading broadly about the history of technology-driven businesses (beyond just the ICT revolution and back all the way to the 1800s), as well as analyzing literature from corporate finance, corporate strategy, business school professors, and economists, I
-
-
+Thus, the goal with this blog was to ruminate on these topics and try and synthesize a mental model that both provided entrepreneurs with a guide to building a durable, lasting company as a new entrant as well as gave VCs a more detailed model to evaluate the potential of investments. 
 
 
-
-## My Mental Model for Technology Investing
-
+## The Right Questions and Definitions
 
 
+Any mental model has to start with a set of questions it's trying to help answer. For me, the ultimate question for entrepeneurs and VCs is this:
 
+**What are the necesary and sufficient conditions under which new entrants can successfully enter a market and eventually become a dominant, durable company in that market?"**
+
+To answer that question though, we're going to have to break it down into a set of subquestions that, when put together, provide an answer.
+
+From first principles, any successful startup has to first **enter** a market with a product and secondly **become a dominant, durable company** in that market. 
+
+Thus, we first have to answer the question of _entry_ and then we have to answer the question of market _dominance_. The question of market entry while devilishly tricky to answer is at least a simple question. Dominance and durability however, needs a bit more definition. I define dominance as a company holding _sustainable competitive advantage_ in a _large market_. 
+
+This definition is taken straight from the annals of strategy. The large market is defined by the total number of dollars the company in question and its competitors can access in a steady state evironment (i.e. the market grows at a terminal growth rate in line with the overall economy). When the company starts, that number could be small, but it eventually has to be large if the company is going to generate a large amount of cash (and thus be valuable - the value of a company is the sum of its cash flows discounted into the present). The reason I include 'large' in the definition is because it doesn't matter whether a company is dominant in a small market - the low magnitude of cash flows will ensure that the value of the company is correspondingly small. Sustainablve competitive advantage is actually a subset of sustainable value creation. A company creates value for its shareholders if it produces cash flows that yield a return in excess of the opportunity cost of capital (OCC). The test is purely quantitative. Moving one layer deeper, it has a competitive advantage if at any point in time it can create a return on invested capital (ROIC) greater than that of its competitors. The two concepts are related, but not identical. A competitive advantage becomes sustainable when this ROIC can be maintained at a rate substantially above the OCC for a substantial amount of time, termed the Competitive Advantage Period (CAP). Thus dominance is measured by the magnitude of ROIC that a company can earn about its OCC (evaluated on a cash basis). Durability is measured by the time horizon a business can maintain that level of return.
+
+- Under what set of conditions can new entrants enter a market and become a large, dominant company?
+- What kinds of incumbents should new entrants consider when entering a market?
+- How do the necessary and sufficient conditions for startup success change when entering a wholly new market as compared to when deploying a new product into an market with existing solutions?
+- Do new entrants have to enter 
+- How do new entrants undermine or render the competitive advantages of existing businesses obsolete?
+- What types of risks can new entrants take and succeed relative to incumbents with a similar capability set?
+
+
+## Entry
+
+
+
+
+
+
+### What is an incumbent?
+
+
+## Defensibiltiy 
 
 ## Framework 1: The Basics of Competitive Advantage
 
