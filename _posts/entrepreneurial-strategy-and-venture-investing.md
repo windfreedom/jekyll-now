@@ -15,18 +15,23 @@ Thus, the goal with this blog was to ruminate on these topics and try and synthe
 
 Any mental model has to start with a set of questions it's trying to help answer. For me, the ultimate question for entrepeneurs and VCs is this:
 
-**What are the necesary and sufficient conditions under which new entrants can successfully enter a market and eventually become a dominant, durable company in that market?"**
+**What are the necesary and sufficient conditions under which new entrants can successfully enter a large market and eventually become a dominant, durable company in that market?"**
 
 To answer that question though, we're going to have to break it down into a set of subquestions that, when put together, provide an answer.
 
-From first principles, any successful startup has to first **enter** a market with a product and secondly **become a dominant, durable company** in that market. 
+From first principles, any successful startup has to first **enter** a market with a product and secondly **become a dominant, durable company** in that market. Ideally this market is eventually large. 
 
-Thus, we first have to answer the question of _entry_ and then we have to answer the question of market _dominance_. The question of market entry while devilishly tricky to answer is at least a simple question. Dominance and durability however, needs a bit more definition. I define dominance as a company holding _sustainable competitive advantage_ in a _large market_. 
+Thus, we first have to answer the question of _entry_ and then we have to answer the question of market _dominance_. Unfortunately, the definitions of entry, large-market, dominance, and durability aren't as simple as they might at first appear. 
 
-This definition is taken straight from the annals of strategy. The large market is defined by the total number of dollars the company in question and its competitors can access in a steady state evironment (i.e. the market grows at a terminal growth rate in line with the overall economy). When the company starts, that number could be small, but it eventually has to be large if the company is going to generate a large amount of cash (and thus be valuable - the value of a company is the sum of its cash flows discounted into the present). The reason I include 'large' in the definition is because it doesn't matter whether a company is dominant in a small market - the low magnitude of cash flows will ensure that the value of the company is correspondingly small. Sustainablve competitive advantage is actually a subset of sustainable value creation. A company creates value for its shareholders if it produces cash flows that yield a return in excess of the opportunity cost of capital (OCC). The test is purely quantitative. Moving one layer deeper, it has a competitive advantage if at any point in time it can create a return on invested capital (ROIC) greater than that of its competitors. The two concepts are related, but not identical. A competitive advantage becomes sustainable when this ROIC can be maintained at a rate substantially above the OCC for a substantial amount of time, termed the Competitive Advantage Period (CAP). Thus dominance is measured by the magnitude of ROIC that a company can earn about its OCC (evaluated on a cash basis). Durability is measured by the time horizon a business can maintain that level of return.
+Let's start with large markets, dominance, and durability. 
 
-- Under what set of conditions can new entrants enter a market and become a large, dominant company?
-- What kinds of incumbents should new entrants consider when entering a market?
+I calculatge the size of the potenital from the bottom up, as most VCs prefer. The size of a market is defined by the total number of dollars the company in question and its competitors can access in a steady state evironment (i.e. the market grows at a terminal growth rate in line with the overall economy) * . When the company starts, that number can be small, but it eventually has to be large if the company is going to generate a large amount of cash (and thus be valuable - the value of a company is the sum of its cash flows discounted into the present). The reason I include 'large' in the definition is because it doesn't matter whether a company is dominant in a small market - the low magnitude of cash flows will ensure that the value of the company is correspondingly small. Additionally, while we generally take the size of the market as an exogenous variable outside the control of entrepreneurs, it's actually not, and any mental model should include some guidelines as to how a company can grow the market they are in.
+
+* Note: To simplify matters, I'm referring only to the total dollars available for a single business line, not for multiple business lines. We will get into the interactions between different product categories in a value chain later on though. 
+
+I define dominance and durability together as follows. A dominant, durable company holds a _sustainable competitive advantage_ in a  given market. This definition is taken straight from the annals of strategy. Sustainablve competitive advantage is actually a subset of sustainable value creation. A company creates value for its shareholders if it produces cash flows that yield a return in excess of the opportunity cost of capital (OCC). Moving one layer deeper, it has a competitive advantage if at any point in time it can create a return on invested capital (ROIC) greater than that of its competitors. Dominance is defined by how big the gap between ROIC and the ROIC of other companies are. A competitive advantage becomes _sustainable_ when this ROIC can be maintained at a rate substantially above the OCC for a substantial amount of time, termed the Competitive Advantage Period (CAP). Thus dominance is measured by the magnitude of ROIC that a company can earn about its OCC (evaluated on a cash basis). Durability is measured by the time horizon a business can maintain that level of return. Of course, this is just a definition - it doesn't say anything about _how_ to achieve this persistent differential returns on invested capital. We'll get there when we get to the defensibility section of the model. 
+
+
 - How do the necessary and sufficient conditions for startup success change when entering a wholly new market as compared to when deploying a new product into an market with existing solutions?
 - Do new entrants have to enter 
 - How do new entrants undermine or render the competitive advantages of existing businesses obsolete?
@@ -35,13 +40,13 @@ This definition is taken straight from the annals of strategy. The large market 
 
 ## Entry
 
-
-
-
+The 
 
 
 ### What is an incumbent?
 
+
+### Middle Ground
 
 ## Defensibiltiy 
 
