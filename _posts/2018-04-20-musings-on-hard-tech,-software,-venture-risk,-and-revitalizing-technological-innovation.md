@@ -1,3 +1,9 @@
+---
+layout: post
+title: Dynamics of Competitive Advantage From First Principles
+published: false
+---
+
 
 I want to start this blog post with an apology. Unlike most blog posts, which are tightly coupled to a specific topic or theme, this one will be markedly less so. That's because, unlike most blog posts, which are written for me to communicate a specific idea I already have formed to others, this blog post was written to explicilty provide a canvas for thinking about my answers to host of interrelated and important questions. I apologize for this explicit disorganization, but throughout the piece I'll hope to explain why think the questions I'm attempting to answer are important to think about.
 
