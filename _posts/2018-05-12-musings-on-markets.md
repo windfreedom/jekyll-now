@@ -1,7 +1,7 @@
 
 Invest in big markets. It's a venture statement that's repeated so often that it's almost cliché. Marc Andreesseen says you should do it. So does Andy Rachleff. And of course, one of the VCs enshrined in the pantheon of mythology, Don Valentine, originated the idea that as a VC, one should invest in startups that are targeting big markets.
 
-The reasons why are numerous - I'd encourage you to just go read the posts I linked to - but they can basically be summarized as so. A great market, one where there are lots of customers and they are willing to pay for a solution to their problem, pulls the right product out of a company. The product just has to be barely functional, meeting the bare minimum of requirements to fit the market need. The team simply has to be competent enough to get that basic, functional product out the door. For startups, who never have the resources.
+The reasons why are numerous - I'd encourage you to just go read the posts I linked to - but they can basically be summarized as so. A great market, one where there are lots of customers and they are willing to pay for a solution to their problem, pulls the right product out of a company. The product just has to be barely functional, meeting the bare minimum of requirements to fit the market need. The team simply has to be competent enough to get that basic, functional product out the door. 
 
 That all made sense to me when I first read those posts. However, Valentine, is also fond of saying that he _doesn't_ invest in startups that create markets, citing the expense of doing so. It's at that point where I got a bit confused.
 
