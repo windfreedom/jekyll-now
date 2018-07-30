@@ -86,30 +86,33 @@ In all these cases, it’s clear that new problems, needs, or wants, can spontan
 
 ### Markets Comprise Actual and Potential Customers with a Problem, Need, or Want. 
 
-The first aspect of my definition of markets, that they comprise of both actual and potential customers, is actually less intuitive than you might think. But it’s something that any reader of Clayton Christensen should recognize: sometimes there are people who would love to use a solution category to solve a problem or meet a need, but simply can’t. Sometimes this is because it’s too expensive, other times because the technology embedded in the project makes it impractical to use. New solution categories that solve problems can expand the market by allowing a host of individuals who wouldn’t have been able to solve a problem, actually do so using a new solution category. For examples, see: Personal Computers, SpaceX’s rockets, etc. In fact, this type of market expansion due to the emergence of new product categories is so prevalent in the history of technological innovation that Ben Evans, a prominent a16z blogger and technology strategist, wrote an entire post devoted to the topic. 
+The first aspect of my definition of markets, that they comprise of both actual and potential customers, is actually less intuitive than you might think. But it’s something that any reader of Clayton Christensen should recognize: sometimes there are people who would love to use a solution category to solve a problem or meet a need, but simply can’t. 
 
-### A Typology of Markets
+Sometimes this is because it’s too expensive, other times because the technology embedded in the project makes it impractical to use. 
+
+Because of this, \new solution categories that solve problems can _expand the market_ by allowing a host of individuals who wouldn’t have been able to solve a problem, actually do so using a new solution category. For examples, see: Personal Computers, SpaceX’s rockets, etc. Even smartphones, which started off really epxpensive, got cheaper and better, to the point where now, they have "converted" potential customers into "actual ones". In fact, this type of market expansion due to the emergence of new product categories is so prevalent in the history of technological innovation that Ben Evans, a prominent a16z blogger and technology strategist, wrote an entire [post](https://www.ben-evans.com/benedictevans/2015/2/28/market-size)  devoted to the topic. This propensity for technology to create innovations that expand markets by allowing a host of individuals to solve problems they weren't able to solve before is at the heart of the "democratizing" element of technology. 
+
+## A Typology of Startup Markets
 
 Now that we’ve defined the 2 dimensions I will use to classify market types,  using these 2 dimensions, we can chart a typology of different types of markets a startup can choose to enter.
 
 
-![Typology of Markets](windfreedom.github.io/images/Screen Shot 2018-07-29 at 2.19.21 PM.png)
+![Typology of Markets](https://github.com/windfreedom/windfreedom.github.io/blob/master/images/Screen%20Shot%202018-07-29%20at%202.19.21%20PM.png)
 
 ￼
-1. A startup can choose to sell a new solution category to a set of existing customers. These customers know their problems, and use existing solution categories in so far as they exist. A startup’s job then is to solve their problems in a way that’s so much better that it “shifts spend” from existing solutions to their own. 
-2. A startup can choose to sell a new solution category to a set of potential customers. These customers are also aware of their problems or wants, but cannot use existing solution categories for some reason. In this sense, a startup must solve a problem for a new set of customers who otherwise were not consuming, shifting spend from “non consumption” to “consumption”. 
-3. A startup can choose to sell a new solution category to meet a truly new problem, need or want or one that has no solutions at all. These customers are usually only newly becoming aware of a problem or want, or truly desperate for a solution where there isn’t one. 
+1. A startup can choose to sell a new solution category to a set of existing customers. These customers know their problems, and use existing solution categories in so far as they exist. A startup’s job then is to solve their problems in a way that’s so much better than existing solutions (10x is the vague improvement level that VCs tend to like) that it “shifts spend” from existing solutions to their own. 
+2. A startup can choose to sell a new solution category to a set of potential customers. These customers are also aware of their problems or wants, but cannot use existing solution categories for some reason. In this sense, a startup must solve a problem for a new set of customers who otherwise were not consuming, create spend by moving individuals from “non consumption” to “consumption”. 
+3. A startup can choose to sell a new solution category to meet a truly new problem, need or want or one that is so revolutoinary as to unearth latent wants in the customer base. These customers are usually only newly becoming aware of a problem or want and thus again, a startup's job is to create spend. 
 
 In this sense, both **Market Type #2 and Market Type #3 describe “new markets”**, whereas **Market Type #1 describes “existing markets”**. 
 
+There are a couple of things to note about this typology. 
 
-There’s a couple of things to note about this.
+Firstly, note that while the typology is completely exhaustive - all markets should fall into one of these three categories - it’s _not mutually exclusive_. Startups selling new product categories sometime address multiple markets, some existing, some new. In fact, the most transformative products (think: telegraph, instant-photography, etc.) often, through the life of their utility, meet all the criteria for all 3 market types. And this is how it should be. For the purposes of entrepreneurial strategy however, it’s the first couple of markets you choose to enter that should be the unit of analysis.
 
-Firstly, note that while the typology is exhaustive - all markets should fall into one of these three categories - it’s not mutually exclusive. Startups selling new product categories sometime address multiple markets, some existing, some new. In fact, the most transformative products often meet all the criteria for all 3 market types.  For the purposes of entrepreneurial strategy however, it’s the first couple of markets you choose to enter that should be the unit of analysis.
+Let's look at an example of this phenomenon to make it more real - the telegraph and its dominating company, Western Union. 
 
-Let's look at an example - the telegraph and its dominating company, Western Union. 
-
-
+### The Case of the Telegraph 
 
 
 
@@ -123,7 +126,7 @@ And lastly, the choice of market matters because it in of itself determines a pa
 
 
 
-## Different Types of Competition
+## There are Fundamentally Different Types of Competition
 
 Competition might be the lifeblood of capitalism. But from the perspective of a business owner, it sucks. It eats at your margins and market share. And left unchecked, it can ensure that all the value created by a product or service goes straight to the customer, without any left for the producer.
 
