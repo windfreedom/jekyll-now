@@ -93,7 +93,7 @@ The first aspect of my definition of markets, that they comprise of both actual 
 Now that we’ve defined the 2 dimensions I will use to classify market types,  using these 2 dimensions, we can chart a typology of different types of markets a startup can choose to enter.
 
 
-![Typology of Markets](/images/Screen Shot 2018-07-29 at 2.19.21 PM.png)
+![Typology of Markets](windfreedom.github.io/images/Screen Shot 2018-07-29 at 2.19.21 PM.png)
 
 ￼
 1. A startup can choose to sell a new solution category to a set of existing customers. These customers know their problems, and use existing solution categories in so far as they exist. A startup’s job then is to solve their problems in a way that’s so much better that it “shifts spend” from existing solutions to their own. 
