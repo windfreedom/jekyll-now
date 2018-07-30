@@ -1,3 +1,10 @@
+---
+layout: post
+title: Dynamics of Competitive Advantage From First Principles
+published: false
+---
+
+
 I will start this piece by disapointing you. There is no universal theory of startup success. The fact that even at the best VC firm of all time, Sequoia Capital, a substantial fraction of investments fail, should make that truth evidently clear. So why then, am I writing a piece that details my thoughts on the drivers of startup success? Mainly, I'm doing it because I was frustrated by the vague answers I usually saw VCs parrot back whenever asked the question: "How do you evaluate a potential investment?". The answers, which all involved, some combination of product, team, and market, seemed to be just detailed enough to be _correct_ and also not detailed enough to add any value to me, someone looking to understand the VC process in more detail.
 
 So I decided to build my own framework to answer these questions, one that would attempt to introduce some semblance of theoretical precision to the fuzzy answers I'd heard VCs give, but also be useful enough to apply to my everyday work. I drew on a host of resources to do so, including Clayton Christensen's Theory of Disruption, Michael Porter's eponymous work, David Teece's "Profiting from Innovation" paper, and a ton of case studies of new companies, going all the way back to James Watt's first firm (a full reference list will be include below). I hope you enjoy it. 
