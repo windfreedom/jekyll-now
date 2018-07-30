@@ -110,12 +110,6 @@ There are a couple of things to note about this typology.
 
 Firstly, note that while the typology is completely exhaustive - all markets should fall into one of these three categories - it’s _not mutually exclusive_. Startups selling new product categories sometime address multiple markets, some existing, some new. In fact, the most transformative products (think: telegraph, instant-photography, etc.) often, through the life of their utility, meet all the criteria for all 3 market types. And this is how it should be. For the purposes of entrepreneurial strategy however, it’s the first couple of markets you choose to enter that should be the unit of analysis.
 
-Let's look at an example of this phenomenon to make it more real - the telegraph and its dominating company, Western Union. 
-
-### The Case of the Telegraph 
-
-
-
 Secondly, the choice of market matters for a variety of reasons. 
 
 The first-order reason why the choice matters is simply because the number of customers and growth rate of the number of customers in each type of market can clearly be different. And as Don Valentine loves to state, targeting big markets is important. A startup has to be targeting a market that at the very least has or will have a lot of customers in it if it’s going to ever spin off tons of cash. It’s a “necessary but not sufficient” condition. 
@@ -123,6 +117,11 @@ The first-order reason why the choice matters is simply because the number of cu
 But also, a new solution category being sold by a startup may have different value to different types of customers, and thus the maximum potential price it can charge will also be different for each type of market. Again, this price, with its direct link to revenue, is an important part of the maxim “target big markets” - you want markets with either a lot of customers, customers who are willing to pay a lot, or both. 
 
 And lastly, the choice of market matters because it in of itself determines a part of another second large driver of free cash flow - and the one I will be talking the most about: competition.
+
+
+### An Example: The Case of the Telegraph 
+
+Let's look at an example of all the ideas I've talked about thus far to bring the concepts into reality. The example I've chosen is that of the telegraph and its dominating company, Western Union. 
 
 
 
