@@ -23,7 +23,9 @@ But to discard strategy as a relic of a bygone era is dangerous for entrepreneur
 
 What is straetgy? 
 
-Defined by Andy Grove, strategy simply is the question of  “how a company can gain, sustain, and/or regain profitable growth in its environment”. Strategy for entrepreneurs then, is fundamentally a discipline that explains how their small companies can grow to become big, dominant ones, which if you believe Paul Graham, is the only reason startups should exist. Strategy describes the deep drivers of corporate success. 
+Defined by Andy Grove, strategy simply is the question of  **“how a company can gain, sustain, and/or regain profitable growth in its environment”**. 
+
+Strategy for entrepreneurs then, is fundamentally a discipline that explains how their small companies can grow to become big, dominant ones, which if you believe Paul Graham, is the only reason startups should exist. Strategy describes the deep drivers of corporate success. 
 
 And in fact, contrary to the belief that strategy is a discipline for big companies in established product categories, startups actually have more degrees of freedom to work with with respect to their strategy than big companies do. Startups are not burdened by legacy product lines, and old choices. If strategy is the art of choosing a route on a map, a startup’s map is blank. 
 
@@ -44,8 +46,6 @@ Our strategy story begins with a universal truth.
 The value of a company is the present value of its future free cash flows discounted to the present at an appropriate rate. That is a fundamental facet of corporate valuation. Dominant companies then, are valued highly because investors believe that these companies will throw off a lot of cash flow in the future and do it for a long time (the cash flows will be persistent), even if they are not doing so now.  
 
 Under a set of simplifying assumptions (namely a steady-state equilibirum), you can break down the free cash flow stream of a business during a period of equilibrium into the following components. 
-
-Corporate Value =  number of customers * growth rate of the # of customers  * margin/customer * market share.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=value&space;=&space;n&space;\cdot&space;g\cdot&space;m\cdot&space;s" target="_blank"><img src="https://latex.codecogs.com/gif.latex?value&space;=&space;n&space;\cdot&space;g\cdot&space;m\cdot&space;s" title="value = n \cdot g\cdot m\cdot s" /></a>
 
