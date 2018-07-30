@@ -1,3 +1,8 @@
+---
+layout: post
+title: Dynamics of Competitive Advantage From First Principles
+published: false
+---
 
 Invest in big markets. It's a venture statement that's repeated so often that it's almost cliché. Marc Andreesseen says you should do it. So does Andy Rachleff. And of course, one of the VCs enshrined in the pantheon of mythology, Don Valentine, originated the idea that as a VC, one should invest in startups that are targeting big markets.
 
