@@ -25,13 +25,13 @@ What is straetgy?
 
 Defined by Andy Grove, strategy simply is the question of  **“how a company can gain, sustain, and/or regain profitable growth in its environment”**. 
 
-Strategy for entrepreneurs then, is fundamentally a discipline that explains how their small companies can grow to become big, dominant ones, which if you believe Paul Graham, is the only reason startups should exist. Strategy describes the deep drivers of corporate success. 
+Strategy for entrepreneurs then, is fundamentally a discipline that explains how their small companies can grow to become big, dominant ones, which if you believe [Paul Graham](http://www.paulgraham.com/growth.html), is the fundamental characteristic of a startup in the first place. Strategy tried to describe the deep drivers of company success, startups included. 
 
 And in fact, contrary to the belief that strategy is a discipline for big companies in established product categories, startups actually have more degrees of freedom to work with with respect to their strategy than big companies do. Startups are not burdened by legacy product lines, and old choices. If strategy is the art of choosing a route on a map, a startup’s map is blank. 
 
 In that sense, there’s arguably nothing as important as strategy to a young startup. 
 
-So if we’ve accepted (and I’ll assume you have too if you’re still reading) that strategy is important for entrepreneurs to grasp, the logical next question is, “what should we know about it?”
+So if we’ve accepted (and I’ll assume you have too if you’re still reading) that strategy is important for entrepreneurs to grasp, the logical next question is, “what should entrepreneurs know about it?”
 
 Let’s start with the basics. 
 
