@@ -112,8 +112,12 @@ Firstly, note that while the typology is completely exhaustive - all markets sho
 This is a critical point and so I want to state it again. **New solution categories should not fall into one category alone.**
 This is part of the point Ben Evans tries to make in the post I linked to above. The total market for a given solution category is defined by the total amount of dollars that will be spent on using it to solve every one of the problems it can possibly solve. And  this market can therefore can expand for 2 reasons as the price-performance trajectory improves (it's form factor gets smaller, it's price decreases, it's speed improves, etc.). 
 
-1. As the price-performance trajectory of a solution category improves , it can expand the market by converting "potential customers" into "actual customers". This often happens as a technology gets cheaper over time.
+1. As the price-performance trajectory of a solution category improves, it can expand the market by converting "potential customers" into "actual customers" - often because the technology gets cheaper - or by pulling customers out ('from below') from the old solution categories into the new one - because a solution category gets better. 
 2. As price-performance trajectories improve, a solution category reach a threshold where it's better than existing solutions to _entirely  new problems_ that it couldn't have solved properly before certain thresholds were met.
+
+This chart tries to illustrate the relationships between different markets as a solution category evolves. 
+
+![Evolving Market Dynamics](https://github.com/windfreedom/windfreedom.github.io/blob/master/images/Screen%20Shot%202018-07-30%20at%205.27.39%20PM.png)
 
 In both these ways, the boundaries of a "market" for new solution categories is highly dynamic.  All of the most transformative products, from the automobile, to instant-photography, to the smartphone, exhibit this phenomenon, each taking its own path. The PC for example, started out as a worse-but-good-enough solution that allowed people who couldn't use existing minicomputers to access computing. But as it became cheaper and better, it began to meet new needs (e.g. spreadhseets, gaming, etc.), expand the market, **and** pull customers who would have been using minicomputers into its fold (classic "new market" disruption). And that was before the advent of the browser! Thus, the the borders of the "PC Market" changed over time.  So when considering what a market for a solution category is, one must think about the size of all of the problems the solution category can solve now **and** all of the problems it can solve as the price-performance trajectory improves until it begins to flatline (if it is going to improve).
 
