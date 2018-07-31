@@ -61,18 +61,18 @@ Let’s start with the first - markets.
 
 ## What is a market? 
 
-The word market gets thrown around in business discourse a lot, but its often used in a vague manner. So let’s nail down a working definition. 
+The word market gets thrown around in business discourse a lot, particularly in the world of startups ever since Don Valentine stated that VCs should "Invest in Big Markets".  But we're often vague about our definition of markets. So let's nail a definition down.  
 
 According to marketing guru Geoffrey Moore, a market is “a set of **actual or potential** customers for a set of products/services, that have a **common set of problems, needs or wants**”. 
 
 I’ve highlighted the two most important aspects of this definition that I will focus on. Namely, I will be making 2 points. 
 
-1. There is a difference between actual and potential customers
-2. There is a difference between new and existing problems, needs, or wants. 
+1. Markets are defined by existing or new problems, needs, or wants. 
+2. Markets consist of both actual and potential customers. 
 
 ### Markets are Defined by Problems, Needs, or Wants
 
-The second of these aspects is the most intuitive. Markets - at least in the way I will define them - are defined by problems, needs, and wants. Customers use a product because it solves a problem they have, or because it meets a need or want. So instead of defining a market by product category (e.g. "a $100M market for automobiles), I will define markets by dollars spent to solve a particular problem. I do this both to be consistent but also because it more readily reveals all the possible solution categories we turn to in order to solv a given problem.  
+The second of these aspects is the most intuitive. Markets - at least in the way I will define them - are defined by problems, needs, and wants. Customers use a product because it solves a problem they have, or because it meets a need or want. So instead of defining a market by product category (e.g. "a $100M market for automobiles), I will define markets by dollars spent to solve a particular problem. I do this both to be consistent but also because it more readily reveals all the possible solution categories we turn to in order to solve a given problem.  
 
 Additionally, what may feel new about this definition is that there is a difference between problems/needs/wants that exist or are new. 
 
@@ -94,7 +94,7 @@ Because of this, \new solution categories that solve problems can _expand the ma
 
 ## A Typology of Startup Markets
 
-Now that we’ve defined the 2 dimensions I will use to classify market types,  using these 2 dimensions, we can chart a typology of different types of markets a startup can choose to enter.
+Using these two dimensions, we can chart a typology of different types of markets a startup can choose to enter.
 
 
 ![Typology of Markets](https://github.com/windfreedom/windfreedom.github.io/blob/master/images/Screen%20Shot%202018-07-29%20at%202.19.21%20PM.png)
@@ -108,15 +108,20 @@ In this sense, both **Market Type #2 and Market Type #3 describe “new markets�
 
 There are a couple of things to note about this typology. 
 
-Firstly, note that while the typology is completely exhaustive - all markets should fall into one of these three categories - it’s _not mutually exclusive_. Startups selling new product categories sometime address multiple markets, some existing, some new. In fact, the most transformative products (think: telegraph, instant-photography, etc.) often, through the life of their utility, meet all the criteria for all 3 market types. And this is how it should be. For the purposes of entrepreneurial strategy however, it’s the first couple of markets you choose to enter that should be the unit of analysis.
+Firstly, note that while the typology is completely exhaustive - all markets should fall into one of these three categories - it’s _not mutually exclusive_. Startups selling new product categories sometime address multiple markets, some existing, some new. 
 
-Secondly, the choice of market matters for a variety of reasons. 
+This is a critical point and so I want to state it again. **New solution categories should not fall into one category alone.**
+This is part of the point Ben Evans tries to make in the post I linked to above. The total market for a given solution category is defined by the total amount of dollars that will be spent on using it to solve every one of the problems it can solve. And not only this, but as the price-performance trajectory of a solution category improves (it's form factor gets smaller, it's price decreases, it's speed improves, etc.), it can both expand the market by converting "potential customers" into "actual customers" and reach a threshold where it's better than existing solutions to entirely  new problems that it couldn't have solved properly before certain thresholds were met. In this sense, the definition of a "market" for new solutions is highly dynamic. So when sizing a market, one must think about the size of all of the problems the solution category can solve now **and** all of the problems it can solve as the price-performance trajectory improves until it begins to flatline (if it is going to improve).
+
+All of the most transformative products, from the automobile, to the telegraph, to instant-photography, to the smartphone exhibit this phenomenon. Some start  And this is how it should be. For the purposes of entrepreneurial strategy however, it’s the first couple of markets you choose to enter that should be the unit of analysis.
+
+Secondly, the composition of markets that a new solution category can address matters for strategic reasons as well. 
 
 The first-order reason why the choice matters is simply because the number of customers and growth rate of the number of customers in each type of market can clearly be different. And as Don Valentine loves to state, targeting big markets is important. A startup has to be targeting a market that at the very least has or will have a lot of customers in it if it’s going to ever spin off tons of cash. It’s a “necessary but not sufficient” condition. 
 
 But also, a new solution category being sold by a startup may have different value to different types of customers, and thus the maximum potential price it can charge will also be different for each type of market. Again, this price, with its direct link to revenue, is an important part of the maxim “target big markets” - you want markets with either a lot of customers, customers who are willing to pay a lot, or both. 
 
-And lastly, the choice of market matters because it in of itself determines a part of another second large driver of free cash flow - and the one I will be talking the most about: competition.
+And lastly, the choice of market matters because it in of itself determines a part of another second large driver of free cash flow - and the one I will be talking the most about: the competition a new business will face.
 
 
 ### An Example: The Case of the Telegraph 
