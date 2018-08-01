@@ -96,7 +96,7 @@ Because of this, new solution categories that solve problems can _expand the mar
 
 Using these two dimensions, we can chart a typology of different types of markets a startup can choose to enter.
 
-![Typology of Markets](https:raw.githubusercontent.com/windfreedom.github.io/blob/master/images/Screen%20Shot%202018-07-29%20at%202.19.21%20PM.PNG)
+![Typology of Markets](markettypology.png)
 
 1. A startup can choose to sell a new solution category to a set of existing customers. These customers know their problems, and use existing solution categories in so far as they exist. A startup’s job then is to solve their problems in a way that’s so much better than existing solutions (10x is the vague improvement level that VCs tend to like) that it “shifts spend” from existing solutions to their own. 
 2. A startup can choose to sell a new solution category to a set of potential customers. These customers are also aware of their problems or wants, but cannot use existing solution categories for some reason. In this sense, a startup must solve a problem for a new set of customers who otherwise were not consuming, create spend by moving individuals from “non consumption” to “consumption”. 
