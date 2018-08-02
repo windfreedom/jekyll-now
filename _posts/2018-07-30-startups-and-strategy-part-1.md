@@ -96,7 +96,7 @@ Because of this, new solution categories that solve problems can _expand the mar
 
 Using these two dimensions, we can chart a typology of different types of markets a startup can choose to enter.
 
-![Typology of Markets](markettypology.png)
+![Typology of Markets](https://s33.postimg.cc/pbybpqtdb/markettypology.png)
 
 1. A startup can choose to sell a new solution category to a set of existing customers. These customers know their problems, and use existing solution categories in so far as they exist. A startup’s job then is to solve their problems in a way that’s so much better than existing solutions (10x is the vague improvement level that VCs tend to like) that it “shifts spend” from existing solutions to their own. 
 2. A startup can choose to sell a new solution category to a set of potential customers. These customers are also aware of their problems or wants, but cannot use existing solution categories for some reason. In this sense, a startup must solve a problem for a new set of customers who otherwise were not consuming, create spend by moving individuals from “non consumption” to “consumption”. 
@@ -116,7 +116,8 @@ This is part of the point Ben Evans tries to make in the post I linked to above.
 
 This chart tries to illustrate the relationships between different markets as a solution category evolves. 
 
-![Evolving Market Dynamics](https://s33.postimg.cc/pbybpqtdb/markettypology.png)
+![Evolving Market Dynamics](https://s33.postimg.cc/o9o5772u7/marketevolution.png
+)
 
 In both these ways, the boundaries of a "market" for new solution categories is highly dynamic.  All of the most transformative products, from the automobile, to instant-photography, to the smartphone, exhibit this phenomenon, each taking its own path. The PC for example, started out as a worse-but-good-enough solution that allowed people who couldn't use existing minicomputers to access computing. But as it became cheaper and better, it began to meet new needs (e.g. spreadhseets, gaming, etc.), expand the market, **and** pull customers who would have been using minicomputers into its fold (classic "new market" disruption). And that was before the advent of the browser! Thus, the the borders of the "PC Market" changed over time.  So when considering what a market for a solution category is, one must think about the size of all of the problems the solution category can solve now **and** all of the problems it can solve as the price-performance trajectory improves until it begins to flatline (if it is going to improve).
 
