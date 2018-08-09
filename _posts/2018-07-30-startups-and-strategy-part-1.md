@@ -57,9 +57,9 @@ where:
 
 From this formula, 3 fundamental drivers of a company’s value drop out: 
 
-1. Nature of market - its size and growth rate.  
-2. Unit economics, defined by the intrinsic value your product adds to the customer's life by solving a problem for them (which defines the price you can charge) and the cost structure of providing that value (which partly determines gross margin, CAC, etc.) 
-3. Competition.
+1. **Nature of market** - its size and growth rate.  
+2. **Unit economics**, defined by the intrinsic value your product adds to the customer's life by solving a problem for them (which defines the price you can charge) and the cost structure of providing that value (which partly determines gross margin, CAC, etc.) 
+3. **Competition**.
 
 To truly talk about "strategy" will require me to discuss each of these elements. 
 
