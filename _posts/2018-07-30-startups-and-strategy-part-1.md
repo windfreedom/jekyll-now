@@ -27,7 +27,7 @@ Defined by Andy Grove, strategy simply is the question of  **“how a company ca
 
 Strategy for entrepreneurs then, is fundamentally a discipline that explains how their small companies can grow to become big, dominant ones, which if you believe [Paul Graham](http://www.paulgraham.com/growth.html), is the fundamental characteristic of a startup in the first place. Strategy tried to describe the deep drivers of company success, startups included. 
 
-And in fact, contrary to the belief that strategy is a discipline for big companies in established product categories, startups actually have more degrees of freedom to work with with respect to their strategy than big companies do. Startups are not burdened by legacy product lines, and old choices. If strategy is the art of choosing a route on a map, a startup’s map is blank. 
+And in fact, contrary to the belief that strategy is a discipline for big companies in established product categories, startups actually have more degrees of freedom to work with with respect to their strategy than big companies do. Startups are not burdened by legacy product lines and old choices. If strategy is the art of choosing a route on a map, a startup’s map is blank. 
 
 In that sense, there’s arguably nothing as important as strategy to a young startup. 
 
@@ -37,11 +37,11 @@ Let’s start with the basics.
 
 For the purposes of this post, I will be defining ‘startups’ more broadly than you might think. My definitions is,  **“a company attempting to sell a new solution category in a market that is had not previously operated in”**. 
 
-Note here that the unit of analysis is NOT limited to VC-backed startups, but rather any company, big or small, funded through any mechanism (retained earnings, debt, equity, etc.) that is attempting to sell a new solution to a customer’s problems. I’m also limiting myself to discussing companies that are attempting to go from “zero to one”, from zero customers to building a big business around a single solution category. Although I will touch on multi-business strategy at the end of the piece, I’m not going to include situations like big businesses going international with their products. I’m going to stay laser focused on startups. 
+Note here that the unit of analysis is NOT limited to VC-backed startups, but rather any company, big or small, funded through any mechanism (retained earnings, debt, equity, etc.) that is attempting to sell a new solution to a customer’s problems. I’m also limiting myself to discussing companies that are attempting to go from “zero to one”, from zero customers to building a big business around a single solution category. Although I will touch on multi-business strategy at the end of the piece, I’m not going to include situations like big businesses going international with their products. I’m going to stay laser focused on new entrants.
 
-Also, note my use of the word “solution category”. The reason I chose that verbiage instead of say, “new product”, is to be deliberately agnostic as to how a new startup tries to solve a problem in a new, better way. It could be because they came up with a new product category which solves a problem in a better way, like General Electric did when they displaced gas lighting with electric lighting. But it also could be because the startup used a different business model that added value to the customer, like Compaq’s “Direct Sales” model did to HP. The point is that ultimately, the correct way to view a startup is as a company offering a solution to a problem and thus the correct unit of analysis for an entrepreneurial strategy piece is the solution offered. 
+Also, note my use of the word “solution category”. The reason I chose that verbiage instead of say, “new product”, is to be deliberately agnostic as to how a new startup tries to solve a problem in a new, better way. It could be because they came up with a new product category which solves a problem in a better way, like General Electric did when they displaced gas lighting with electric lighting and built an entirely new supply chain in the process. But it also could be because the startup used a different business model to sell an otherwise similar product in a way that added value to the customer, like Compaq’s “Direct Sales” model did to HP. The point is that ultimately, the correct way to view a startup is as a company **offering a solution to a problem** and thus the correct unit of analysis for an entrepreneurial strategy piece is the solution category. 
 
-Our strategy story begins with a universal truth. 
+Moving past definitions, our strategy story begins with a universal truth. 
 
 The value of a company is the present value of its future free cash flows discounted to the present at an appropriate rate. That is a fundamental facet of corporate valuation. Dominant companies then, are valued highly because investors believe that these companies will throw off a lot of cash flow in the future and do it for a long time (the cash flows will be persistent), even if they are not doing so now.  
 
@@ -55,7 +55,13 @@ where:
 - _m_ represents the margin per customer (ARPU - Cost of Serving That Customer including fixed costs and variable costs)
 - _s_ represents market share. 
 
-From this formula, 3 fundamental drivers of a company’s value drop out: **nature of market**, **unit economics**, and **competition**. 
+From this formula, 3 fundamental drivers of a company’s value drop out: 
+
+1.Nature of market - its size and growth rate.  
+2.Unit economics, defined by the intrinsic value your product adds to the customer's life by solving a problem for them (which defines the price you can charge) and the cost structure of providing that value (which partly determines gross margin, CAC, etc.) 
+3.Competition.
+
+To truly talk about "strategy" will require me to discuss each of these elements. 
 
 Let’s start with the first - markets. 
 
@@ -67,14 +73,14 @@ According to marketing guru Geoffrey Moore, a market is “a set of **actual or 
 
 I’ve highlighted the two most important aspects of this definition that I will focus on. Namely, I will be making 2 points. 
 
-1. Markets are defined by existing or new problems, needs, or wants. 
-2. Markets consist of both actual and potential customers. 
+1. Markets are defined by **existing** or **new** problems, needs, or wants. 
+2. Markets consist of both **actual** and **potential** customers. 
 
 ### Markets are Defined by Problems, Needs, or Wants
 
-The second of these aspects is the most intuitive. Markets - at least in the way I will define them - are defined by problems, needs, and wants. Customers use a product because it solves a problem they have, or because it meets a need or want. So instead of defining a market by product category (e.g. "a $100M market for automobiles), I will define markets by dollars spent to solve a particular problem. I do this both to be consistent but also because it more readily reveals all the possible solution categories we turn to in order to solve a given problem.  
+The second of these aspects is the most intuitive. Markets - at least in the way I will define them - are defined by problems, needs, and wants. Customers use a product because it solves a problem they have, or because it meets a need or want. So instead of defining a market by product category (e.g. "a $100M market for automobiles), I will define markets by dollars spent to solve a particular problem. I do this both to be consistent but also because it more readily reveals all the possible solution categories we turn to in order to solve a given problem. 
 
-Additionally, what may feel new about this definition is that there is a difference between problems/needs/wants that exist or are new. 
+Now, what may feel new about this definition is that there is a difference between problems/needs/wants that exist vs. those that are new. 
 
 Most of the time, customers are well aware of the problems, needs, and wants they have and are attempting to meet them with whatever solutions are currently available. When customers are aware of both the problems they have and the solution categories available to them, I call those problems  “existing problems”.  
 
@@ -82,15 +88,19 @@ Other times however, truly new problems, needs, or wants, can emerge. Many times
 
 Additionally, sometimes products are so revolutionary in nature as to unearth a “hidden” or latent want/need in the customer, thereby in a sense creating a market from scratch. It’s rare, but as Marc Andreessen described in a blog [here](https://pmarchive.com/guide_to_startups_part4.html), it has occasionally happened, like with VMWare and OS Virtualization.  
 
-In all these cases, it’s clear that new problems, needs, or wants, can spontaneously or be induced to emerge. The key question to determine whether a proble is new or already exist is simple: _“Are customers aware of this problem need, or want?”_
+In all these cases, it’s clear that new problems, needs, or wants can spontaneously or be induced to emerge. But it's rare, and for the most part, customers know about their problems. If you are still confused, the key question to determine whether a problem is new or already exists is simple: _“Are customers aware of this problem need, or want right now?”_
 
 ### Markets Comprise Actual and Potential Customers with a Problem, Need, or Want. 
 
-The first aspect of my definition of markets, that they comprise of both actual and potential customers, is actually less intuitive than you might think. But it’s something that any reader of Clayton Christensen should recognize: sometimes there are people who would love to use a solution category to solve a problem or meet a need, but simply can’t. 
+The second aspect of my definition of markets, that they comprise of both actual and potential customers, is actually less intuitive than you might think. But it’s something that any reader of Clayton Christensen should recognize: sometimes there are people who would love to use a solution category to solve a problem or meet a need, but simply can’t. 
 
 Sometimes this is because it’s too expensive, other times because the technology embedded in the project makes it impractical to use. 
 
-Because of this, new solution categories that solve problems can _expand the market_ by allowing a host of individuals who wouldn’t have been able to solve a problem, actually do so using a new solution category. For examples, see: Personal Computers, SpaceX’s rockets, etc. Even smartphones, which started off really epxpensive, got cheaper and better, to the point where now, they have "converted" potential customers into "actual ones". In fact, this type of market expansion due to the emergence of new product categories is so prevalent in the history of technological innovation that Ben Evans, a prominent a16z blogger and technology strategist, wrote an entire [post](https://www.ben-evans.com/benedictevans/2015/2/28/market-size)  devoted to the topic. This propensity for technology to create innovations that expand markets by allowing a host of individuals to solve problems they weren't able to solve before is at the heart of the "democratizing" element of technology. 
+Because of this, new solution categories that solve problems can _expand the market_ if they allow individuals who wouldn’t have been able to solve a problem, to actually do so using the new solution category. For examples, see: Personal Computers, SpaceX’s rockets, etc. Even smartphones, which started off really epxpensive, got cheaper and better, to the point where now, they have "converted" potential customers into "actual ones". 
+
+In fact, this type of market expansion due to the emergence of new product categories is so prevalent in the history of technological innovation that Ben Evans, a prominent a16z blogger and technology strategist, wrote an entire [post](https://www.ben-evans.com/benedictevans/2015/2/28/market-size) devoted to the topic. This propensity for technology to create innovations that expand markets by allowing a host of individuals to solve problems they weren't able to solve before is at the heart of the "democratizing" element of technology. 
+
+**Note**: In Christensonian Disruption, new solution categories disrupt old ones from the "bottom up". That is, they start off as worse, but 'good-enough' solutions that appeal to a certain set of customers outside the mainstream market for an existing solution category. But as the performance of these new solutions improves it pulls customers out from the bottom of the existing solution category's market, until that solution category ceases to be very useful anymore. But in my framework, market expansion can occur from the "top-down" as well, with smartphones being a prime example of this. In this case, a new solution category solves a problem better/faster for a set of existing customers, but then gets cheaper, allowing more and more customers to use it. Either is acceptable in my framework. 
 
 ## A Typology of Startup Markets
 
@@ -109,7 +119,7 @@ There are a couple of things to note about this typology.
 Firstly, note that while the typology is completely exhaustive - all markets should fall into one of these three categories - it’s _not mutually exclusive_. Startups selling new product categories sometime address multiple markets, some existing, some new. 
 
 This is a critical point and so I want to state it again. **New solution categories should not fall into one category alone.**
-This is part of the point Ben Evans tries to make in the post I linked to above. The total market for a given solution category is defined by the total amount of dollars that will be spent on using it to solve every one of the problems it can possibly solve. And  this market can therefore can expand for 2 reasons as the price-performance trajectory improves (it's form factor gets smaller, it's price decreases, it's speed improves, etc.). 
+This is part of the point Ben Evans tries to make in the post I linked to above. The **total market for a given solution category is defined by the total amount of dollars that will be spent on using it to solve every one of the problems it can possibly solve**. And  this market  therefore can expand for 2 reasons as the price-performance trajectory improves (it's form factor gets smaller, it's price decreases, it's speed improves, etc.). 
 
 1. As the price-performance trajectory of a solution category improves, it can expand the market by converting "potential customers" into "actual customers" - often because the technology gets cheaper - or by pulling customers out ('from below') from the old solution categories into the new one - because a solution category gets better. 
 2. As price-performance trajectories improve, a solution category reach a threshold where it's better than existing solutions to _entirely  new problems_ that it couldn't have solved properly before certain thresholds were met.
@@ -119,29 +129,28 @@ This chart tries to illustrate the relationships between different markets as a 
 ![Evolving Market Dynamics](https://s33.postimg.cc/o9o5772u7/marketevolution.png
 )
 
-In both these ways, the boundaries of a "market" for new solution categories is highly dynamic.  All of the most transformative products, from the automobile, to instant-photography, to the smartphone, exhibit this phenomenon, each taking its own path. The PC for example, started out as a worse-but-good-enough solution that allowed people who couldn't use existing minicomputers to access computing. But as it became cheaper and better, it began to meet new needs (e.g. spreadhseets, gaming, etc.), expand the market, **and** pull customers who would have been using minicomputers into its fold (classic "new market" disruption). And that was before the advent of the browser! Thus, the the borders of the "PC Market" changed over time.  So when considering what a market for a solution category is, one must think about the size of all of the problems the solution category can solve now **and** all of the problems it can solve as the price-performance trajectory improves until it begins to flatline (if it is going to improve).
+In both these ways, the boundaries of a "market" for new solution categories is highly dynamic.  All of the most transformative products, from the automobile, to instant-photography, to the smartphone, exhibit this phenomenon, each taking its own path through each market. The PC for example, started out as a worse-but-good-enough solution that allowed people who couldn't use existing minicomputers to access computing. But as it became cheaper and better, it began to: 
+A. Meet new needs (e.g. spreadhseets, gaming, etc.)
+B. Expand the market by getting cheaper
+C. Pull customers who would have been using minicomputers into its fold (classic "new market" disruption from the bottom up). 
+
+And that was _before_ the advent of the browser! Thus, the the borders of the "PC Market" changed over time. So when considering what a market for a solution category is, one must think about the size of all of the problems the solution category can solve now **and** all of the problems it can solve as the price-performance trajectory improves until it begins to flatline.
 
 
 Secondly, the composition of markets that a new solution category can address matters for strategic reasons as well. 
 
 The first-order reason why the choice matters is simply because the number of customers and growth rate of the number of customers in each type of market can clearly be different. And as Don Valentine loves to state, targeting big markets is important. A startup has to be targeting a market that at the very least has or will have a lot of customers in it if it’s going to ever spin off tons of cash. It’s a “necessary but not sufficient” condition. 
 
-But also, a new solution category being sold by a startup may have different value to different types of customers, and thus the maximum potential price it can charge will also be different for each type of market. Again, this price, with its direct link to revenue, is an important part of the maxim “target big markets” - you want markets with either a lot of customers, customers who are willing to pay a lot, or both. 
+But also, a new solution category being sold by a startup may have different value to different types of customers, and thus the maximum potential price it can extract will also be different for each type of market. Again, this price, with its direct link to revenue, is an important part of the maxim “target big markets” - you want markets with either a lot of customers, customers who are willing to pay a lot, or both. 
 
-And lastly, the choice of market matters because it in of itself determines a part of another second large driver of free cash flow - and the one I will be talking the most about: the competition a new business will face.
-
-
-### An Example: The Case of the Telegraph 
-
-Let's look at an example of all the ideas I've talked about thus far to bring the concepts into reality. The example I've chosen is that of the telegraph and its dominating company, Western Union. 
-
+And lastly, the choice of market matters because it in of itself determines a part of another second large driver of free cash flow - and the one I will be talking the most about: **the competition a new business will face**. Let's talk about competition next. 
 
 
 ## There are Fundamentally Different Types of Competition
 
 Competition might be the lifeblood of capitalism. But from the perspective of a business owner, it sucks. It eats at your margins and market share. And left unchecked, it can ensure that all the value created by a product or service goes straight to the customer, without any left for the producer.
 
-But what doesn’t get discussed about competition is that not all competition is the same. Competing with Microsoft in the 1990s was and would be very different than competing with a small number of startups. But it’s not just size of competitors that matters.  There are fundamentally different types of competition and competitors. 
+But what doesn’t get discussed about competition is that not all competition is the same. Competing with Microsoft in the 1990s was and would be very different than competing with a small number of startups. But it’s not just size that matters.  There are fundamentally different types of competition and competitors. 
 
 I identify 3 types of competitors that a startup will have to consciously think about during it’s lifecycle. 
 
